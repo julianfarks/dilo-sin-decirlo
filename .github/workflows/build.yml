@@ -19,8 +19,6 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
-
       - name: Validar catálogo de cartas
         run: python3 tools/cards.py validate
 
@@ -56,14 +54,14 @@ jobs:
 
       - name: Subir registro de errores a la rama ci-logs
         if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "ci"
-          git config user.email "ci@users.noreply.github.com"
-          mkdir -p /tmp/logs && cp build.log /tmp/logs/build.log 2>/dev/null || true
-          cp -r app/build/reports/tests /tmp/logs/tests 2>/dev/null || true
-          git checkout --orphan ci-logs
-          git rm -rf . >/dev/null 2>&1 || true
-          cp -r /tmp/logs/. .
-          git add -A
-          git commit -m "Registro de CI para ${GITHUB_SHA::7}" || true
-          git push -f origin ci-logs
+          rm -rf /tmp/cilogs && mkdir -p /tmp/cilogs
+          cp build.log /tmp/cilogs/ 2>/dev/null || echo "sin build.log (fallo antes de Gradle)" > /tmp/cilogs/build.log
+          cp -r app/build/reports/tests /tmp/cilogs/tests 2>/dev/null || true
+          cd /tmp/cilogs
+          git init -q -b ci-logs
+          git config user.name ci && git config user.email ci@users.noreply.github.com
+          git add -A && git commit -q -m "Registro de CI ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" ci-logs
