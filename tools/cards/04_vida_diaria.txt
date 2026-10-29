@@ -1,0 +1,122 @@
+## escuela | Escuela y educación | 📚 | 1
+COLEGIO: Estudiantes, Profesor, Clase, Uniforme, Recreo, Tareas, Niños
+UNIVERSIDAD: Carrera, Estudiar, Título, Campus, Profesores, Semestre, Grado | 2
+CUADERNO: Hojas, Escribir, Apuntes, Lápiz, Espiral, Clase, Rayas
+LÁPIZ: Escribir, Grafito, Borrador, Punta, Dibujar, Madera, Sacapuntas
+BORRADOR: Borrar, Lápiz, Errores, Goma, Tablero, Pizarra, Quitar
+SACAPUNTAS: Lápiz, Mina, Afilar, Cuchilla, Viruta, Escritorio, Cuaderno
+REGLA: Medir, Línea, Centímetros, Recta, Plástico, Dibujar, Escuela
+TABLERO: Marcador, Profesor, Escribir, Clase, Borrador, Tiza, Salón
+EXAMEN: Prueba, Nota, Estudiar, Preguntas, Calificación, Nervios, Aprobar
+TAREA: Casa, Deberes, Profesor, Entregar, Escuela, Trabajo, Cuaderno
+RECREO: Descanso, Patio, Jugar, Colegio, Lonchera, Timbre, Niños
+LONCHERA: Almuerzo, Colegio, Comida, Niños, Recreo, Mochila, Merienda
+GRADUACIÓN: Birrete, Toga, Título, Ceremonia, Diploma, Fiesta, Universidad | 2
+DIPLOMA: Título, Graduación, Papel, Estudios, Certificado, Enmarcar, Universidad | 2
+LIBRO: Páginas, Leer, Autor, Historia, Biblioteca, Portada, Capítulos
+DICCIONARIO: Palabras, Significado, Buscar, Definición, Letras, Idioma, Libro
+MAPA: Países, Ubicación, Guía, Ciudades, Carreteras, Mundo, Papel
+GLOBO TERRÁQUEO: Mundo, Planeta, Esfera, Países, Mapa, Girar, Geografía | 2
+MATEMÁTICAS: Números, Sumar, Restar, Multiplicar, Problemas, Ecuaciones, Clase | 2
+HISTORIA: Pasado, Libro, Fechas, Guerras, Antiguo, Clase, Épocas | 2
+BIOLOGÍA: Células, Vida, Seres vivos, Ciencia, Plantas, Animales, Cuerpo | 2
+QUÍMICA: Elementos, Laboratorio, Tabla periódica, Mezclas, Átomos, Fórmulas, Ciencia | 2
+FÍSICA: Gravedad, Fuerza, Energía, Ciencia, Newton, Movimiento, Fórmulas | 2
+GEOGRAFÍA: Mapas, Países, Continentes, Mundo, Ríos, Montañas, Clase | 2
+
+## internet | Internet y redes sociales | 📱 | 2
+INTERNET: Wi-Fi, Navegador, Página, Conexión, Red, Google, Computador | 1
+WHATSAPP: Mensajes, Chat, Verde, Grupos, Celular, Llamadas, Stickers | 1
+INSTAGRAM: Fotos, Historias, Seguidores, Reels, Likes, Filtros, Red social
+FACEBOOK: Red social, Amigos, Muro, Zuckerberg, Perfil, Publicaciones, Azul
+TIKTOK: Videos, Bailes, Viral, Cortos, Algoritmo, Para ti, Música
+YOUTUBE: Videos, Canal, Suscribirse, Creador, Ver, Rojo, Plataforma | 1
+GOOGLE: Buscador, Buscar, Internet, Respuestas, Navegador, Gmail, Mapas | 1
+CORREO ELECTRÓNICO: Mensaje, Enviar, Bandeja, Arroba, Gmail, Adjuntar, Spam
+CONTRASEÑA: Clave, Secreta, Cuenta, Entrar, Olvidar, Caracteres, Seguridad
+MEME: Chiste, Imagen, Viral, Gracioso, Redes, Foto, Texto
+INFLUENCER: Seguidores, Redes sociales, Marcas, Publicidad, Famoso, Instagram, Patrocinio
+SELFIE: Foto, Celular, Cara, Autorretrato, Brazo, Cámara, Sonreír | 1
+EMOJI: Carita, Dibujo, Chat, Mensaje, Emoción, Teclado, Amarillo | 1
+HASHTAG: Numeral, Etiqueta, Twitter, Tendencia, Redes, Símbolo, Viral
+VIRAL: Redes, Compartir, Famoso, Video, Tendencia, Millones, Rápido
+LIKE: Pulgar, Gustar, Corazón, Redes, Foto, Me gusta, Aprobar
+STREAMER: Twitch, Transmitir, Videojuegos, Directo, Seguidores, Cámara, Chat
+BLOG: Escribir, Artículos, Internet, Publicar, Autor, Página, Bitácora
+VIDEOLLAMADA: Cámara, Zoom, Reunión, Pantalla, Cara, Llamar, Internet
+DESCARGA: Archivo, Internet, Bajar, Aplicación, Barra, Gigas, Instalar
+APLICACIÓN: Celular, Descargar, Tienda, Icono, Instalar, Móvil, Play Store
+PERFIL: Foto, Cuenta, Nombre, Redes, Datos, Usuario, Biografía
+
+## emociones | Emociones y sentimientos | 💖 | 2
+ALEGRÍA: Feliz, Sonreír, Contento, Fiesta, Reír, Emoción, Felicidad | 1
+TRISTEZA: Llorar, Lágrimas, Pena, Melancolía, Soledad, Pañuelo, Nostalgia
+ENOJO: Rabia, Gritar, Furia, Molesto, Ira, Cara roja, Explotar | 1
+MIEDO: Susto, Terror, Asustar, Pánico, Temblar, Oscuridad, Pesadilla | 1
+SORPRESA: Inesperado, Cumpleaños, Regalo, Asombro, Gritar, Fiesta, Boquiabierto | 1
+VERGÜENZA: Rojo, Pena, Ridículo, Esconderse, Sonrojar, Público, Mejillas
+AMOR: Corazón, Pareja, Cariño, Besos, San Valentín, Rosas, Novios | 1
+CELOS: Envidia, Pareja, Posesivo, Desconfianza, Verde, Sospechar, Rival
+ENVIDIA: Celos, Verde, Querer, Ajeno, Rival, Codicia, Tener
+NERVIOS: Temblar, Examen, Sudor, Ansiedad, Estómago, Presentación, Inquietud
+ABURRIMIENTO: Bostezar, Nada que hacer, Tedio, Sueño, Clase, Reloj, Lento
+SUEÑO: Dormir, Cama, Bostezo, Cansancio, Noche, Almohada, Siesta | 1
+ESPERANZA: Futuro, Ilusión, Fe, Confiar, Mañana, Deseo, Luz
+ORGULLO: Satisfecho, Hijo, Logro, Pecho, Presumir, Dignidad, Éxito
+NOSTALGIA: Recuerdos, Pasado, Extrañar, Infancia, Melancolía, Fotos, Antes | 3
+SOLEDAD: Solo, Nadie, Compañía, Aislado, Vacío, Silencio, Tristeza
+CURIOSIDAD: Gato, Preguntar, Saber, Descubrir, Interés, Investigar, Mirar
+PEREZA: Flojo, Cama, No hacer nada, Domingo, Cansancio, Dormir, Sofá | 1
+RISA: Carcajada, Jajaja, Sonido, Boca, Alegría, Contagiosa, Humor | 1
+LLANTO: Bebé, Gritos, Pañuelo, Pena, Sollozos, Desconsuelo, Rabieta
+CARIÑO: Abrazo, Afecto, Amor, Mimos, Ternura, Besos, Querer
+GRATITUD: Gracias, Agradecer, Favor, Aprecio, Reconocer, Dar, Gesto | 3
+
+## acciones | Acciones y verbos | 🏃 | 2
+CORRER: Rápido, Piernas, Maratón, Velocidad, Trotar, Carrera, Zapatillas | 1
+SALTAR: Brincar, Piernas, Aire, Cuerda, Alto, Rebotar, Caer | 1
+BAILAR: Música, Pareja, Ritmo, Pies, Fiesta, Moverse, Discoteca | 1
+COCINAR: Receta, Estufa, Ingredientes, Chef, Comida, Olla, Fuego | 1
+DORMIR: Cama, Noche, Sueño, Almohada, Soñar, Descansar, Pijama | 1
+LEER: Libro, Páginas, Palabras, Ojos, Historia, Letras, Biblioteca | 1
+ESCRIBIR: Lápiz, Papel, Letras, Teclado, Palabras, Mano, Carta | 1
+NADAR: Agua, Piscina, Brazos, Mar, Flotar, Traje de baño, Brazadas | 1
+CANTAR: Voz, Canción, Música, Micrófono, Letra, Notas, Karaoke | 1
+LLORAR: Lágrimas, Mejillas, Ojos, Tristeza, Desahogarse, Gimotear, Moquear | 1
+REÍR: Chiste, Gracioso, Comedia, Diversión, Payaso, Cosquillas, Broma | 1
+ABRAZAR: Brazos, Cariño, Cuerpo, Apretar, Afecto, Querer, Saludo | 1
+BESAR: Labios, Beso, Boca, Pareja, Cariño, Amor, Mejilla
+PELEAR: Golpes, Discutir, Puños, Enojo, Boxeo, Gritos, Hermanos
+MANEJAR: Carro, Volante, Licencia, Conducir, Calle, Pedal, Cinturón | 1
+COMPRAR: Tienda, Dinero, Pagar, Precio, Mercado, Producto, Caja | 1
+VENDER: Dinero, Precio, Cliente, Tienda, Comprar, Negocio, Ofrecer
+BUCEAR: Mar, Tanque, Oxígeno, Profundidad, Aletas, Agua, Máscara
+ESCALAR: Montaña, Subir, Cuerda, Roca, Altura, Agarrarse, Cima
+PINTAR: Pincel, Colores, Pared, Cuadro, Brocha, Lienzo, Artista
+DIBUJAR: Lápiz, Papel, Trazos, Arte, Colores, Garabato, Hoja | 1
+BOSTEZAR: Sueño, Boca, Cansancio, Abrir, Aburrimiento, Contagioso, Dormir
+ESTORNUDAR: Nariz, Gripe, Achís, Alergia, Pañuelo, Resfriado, Polvo
+
+## cultura | Cultura general | 🧠 | 2
+GRAVEDAD: Newton, Manzana, Caer, Planeta, Fuerza, Tierra, Atraer
+DINOSAURIO: Extinto, Jurásico, Fósil, Reptil, Gigante, Meteorito, Rex | 1
+PIRÁMIDE: Egipto, Faraón, Triángulo, Antigua, Tumba, Piedra, Desierto
+CASTILLO: Rey, Reina, Torres, Medieval, Princesa, Foso, Piedra | 1
+PIRATA: Barco, Tesoro, Parche, Loro, Mapa, Bandera negra, Mar | 1
+VAMPIRO: Sangre, Colmillos, Drácula, Noche, Murciélago, Ataúd, Halloween | 1
+FANTASMA: Susto, Sábana, Muerto, Halloween, Casa embrujada, Asustar, Espíritu | 1
+DRAGÓN: Fuego, Alas, Escamas, Caballero, Fantasía, Volar, Monstruo | 1
+SIRENA: Mar, Cola, Mitad, Cantar, Pez, Mujer, Marinera | 1
+UNICORNIO: Cuerno, Caballo, Fantasía, Arcoíris, Blanco, Mágico, Mito | 1
+SISTEMA SOLAR: Planetas, Sol, Órbita, Júpiter, Tierra, Espacio, Galaxia
+PLANETA: Marte, Redondo, Mundo, Saturno, Habitable, Esfera, Gravedad
+GALAXIA: Estrellas, Vía Láctea, Espacio, Universo, Espiral, Telescopio, Planetas
+TELESCOPIO: Estrellas, Ver, Lente, Espacio, Astrónomo, Lejos, Observar
+BRÚJULA: Norte, Dirección, Aguja, Orientarse, Imán, Mapa, Perderse
+TESORO: Cofre, Oro, Pirata, Mapa, Joyas, Enterrado, Isla | 1
+LABERINTO: Perderse, Salida, Caminos, Minotauro, Paredes, Complicado, Pasillos
+NAVIDAD: Árbol, Regalos, Santa, Diciembre, Pesebre, Natilla, Villancicos | 1
+HALLOWEEN: Calabaza, Disfraz, Dulces, Susto, Octubre, Brujas, Truco o trato | 1
+CUMPLEAÑOS: Torta, Velas, Regalos, Fiesta, Edad, Soplar, Celebración | 1
+BODA: Novios, Anillo, Vestido blanco, Iglesia, Casarse, Fiesta, Altar | 1
+FUEGOS ARTIFICIALES: Pólvora, Noche, Año nuevo, Cielo, Explosión, Colores, Luces

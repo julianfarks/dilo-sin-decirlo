@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Globo de diálogo rojo con borde oscuro -->
+    <path
+        android:fillColor="#17120F"
+        android:pathData="M24,30 h60 a8,8 0 0 1 8,8 v28 a8,8 0 0 1 -8,8 h-30 l-14,14 v-14 h-16 a8,8 0 0 1 -8,-8 v-28 a8,8 0 0 1 8,-8 z" />
+    <path
+        android:fillColor="#E5382D"
+        android:pathData="M27,33 h54 a5,5 0 0 1 5,5 v26 a5,5 0 0 1 -5,5 h-31 l-11,11 v-11 h-12 a5,5 0 0 1 -5,-5 v-26 a5,5 0 0 1 5,-5 z" />
+    <!-- Cinta sobre la boca: no se puede decir -->
+    <path
+        android:fillColor="#FBF1DA"
+        android:pathData="M34,46 h40 v10 h-40 z" />
+    <path
+        android:fillColor="#17120F"
+        android:pathData="M40,49 l4,4 l-4,4 l-2,-2 l2,-2 l-2,-2 z M70,49 l-4,4 l4,4 l2,-2 l-2,-2 l2,-2 z" />
+</vector>

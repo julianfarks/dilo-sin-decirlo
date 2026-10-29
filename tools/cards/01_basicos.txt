@@ -1,0 +1,135 @@
+# Formato:
+#   ## id | Nombre | emoji | dificultad_base(1-3)
+#   PALABRA: prohibida1, prohibida2, ...        (opcional: "| 3" al final para cambiar dificultad)
+
+## comida | Comida y bebidas | 🍕 | 1
+PIZZA: Queso, Masa, Horno, Porción, Italiana, Tomate, Pepperoni
+CHOCOLATE: Cacao, Dulce, Barra, Postre, Marrón, Derretir, Bombón
+HAMBURGUESA: Carne, Pan, Lechuga, Papas, Ketchup, Comida rápida, Combo
+TACO: Tortilla, México, Salsa, Picante, Carne, Maíz, Guacamole
+AREPA: Maíz, Queso, Harina, Colombia, Venezuela, Rellena, Parrilla
+EMPANADA: Masa, Relleno, Frita, Carne, Horno, Ají, Doblada
+HELADO: Frío, Cono, Sabor, Cuchara, Derretir, Vainilla, Postre
+PALOMITAS: Maíz, Cine, Película, Mantequilla, Reventar, Microondas, Sal
+SOPA: Caldo, Cuchara, Caliente, Plato, Fideos, Hervir, Verduras
+HUEVO: Gallina, Cáscara, Yema, Clara, Freír, Desayuno, Romper
+PAN: Trigo, Harina, Hornear, Tostada, Mantequilla, Baguette, Migas
+QUESO: Leche, Ratón, Rallar, Amarillo, Hueco, Cheddar, Mozzarella
+CAFÉ: Taza, Estimulante, Grano, Mañana, Negro, Despertar, Colombia
+LIMONADA: Cítrico, Ácida, Jugo, Vaso, Fresca, Azúcar, Exprimir
+SUSHI: Arroz, Pescado, Japón, Palillos, Alga, Crudo, Salmón
+ESPAGUETI: Pasta, Salsa, Italiana, Tenedor, Fideo, Boloñesa, Hervir
+MIEL: Abeja, Dulce, Panal, Colmena, Amarilla, Pegajosa, Néctar
+CEREAL: Desayuno, Leche, Caja, Tazón, Maíz, Hojuelas, Mañana
+ENSALADA: Lechuga, Verduras, Tomate, Aderezo, Saludable, Verde, Dieta
+CHURROS: Frito, Azúcar, Canela, Dulce de leche, Masa, España, Chocolate
+YOGUR: Leche, Fruta, Cuchara, Cremoso, Probióticos, Vaso, Desayuno
+MERMELADA: Fruta, Dulce, Pan, Frasco, Fresa, Untar, Tostada
+AGUACATE: Verde, Guacamole, Hueso, Palta, Fruta, Tostada, Cremoso
+CHICLE: Masticar, Boca, Pegajoso, Globo, Menta, Goma, Sabor
+PAPAS FRITAS: Aceite, Sal, Freír, Tubérculo, Bolsa, Ketchup, Crujientes
+BANANO: Amarillo, Cáscara, Fruta, Mono, Racimo, Pelar, Plátano
+SANCOCHO: Sopa, Plátano, Yuca, Gallina, Colombia, Domingo, Olla | 2
+TORTA: Cumpleaños, Velas, Pastel, Horno, Crema, Rebanada, Dulce
+
+## animales | Animales | 🐘 | 1
+ELEFANTE: Trompa, Grande, Animal, Orejas, Colmillos, África, Gris
+PERRO: Ladrar, Mascota, Cola, Hueso, Fiel, Collar, Guau
+GATO: Maullar, Bigotes, Mascota, Ratón, Felino, Garras, Leche
+LEÓN: Rey, Melena, Selva, Rugir, Felino, Sabana, Manada
+JIRAFA: Cuello, Largo, Manchas, África, Hojas, Alta, Sabana
+PINGÜINO: Hielo, Antártida, Frío, Smoking, Volar, Blanco, Negro
+DELFÍN: Mar, Mamífero, Saltar, Inteligente, Acuario, Agua, Aleta
+TIBURÓN: Dientes, Aleta, Mar, Peligroso, Playa, Película, Pez
+SERPIENTE: Veneno, Reptil, Arrastrarse, Víbora, Lengua, Cobra, Piel
+ARAÑA: Trampa, Patas, Ocho, Arácnido, Veneno, Tejer, Peluda
+MARIPOSA: Alas, Oruga, Colores, Volar, Capullo, Insecto, Flor
+ABEJA: Miel, Picar, Colmena, Zumbido, Polen, Reina, Flor
+GALLINA: Huevos, Corral, Pollito, Plumas, Granja, Cacarear, Gallo
+VACA: Leche, Granja, Muu, Manchas, Pasto, Cuernos, Campo
+CABALLO: Montar, Galopar, Crin, Herradura, Establo, Relincho, Jinete
+CERDO: Granja, Barro, Chancho, Tocino, Rosado, Gruñir, Marrano
+TORTUGA: Caparazón, Lenta, Reptil, Liebre, Mar, Huevos, Verde
+MONO: Banano, Árbol, Cola, Selva, Primate, Chimpancé, Trepar
+OSO: Miel, Bosque, Hibernar, Garras, Peludo, Panda, Cueva
+CANGURO: Bolsa, Saltar, Australia, Cría, Marsupial, Cola, Boxeo
+PULPO: Tentáculos, Ocho, Tinta, Mar, Brazos, Molusco, Ventosas | 2
+COCODRILO: Reptil, Dientes, Río, Lágrimas, Caimán, Pantano, Mandíbula
+BÚHO: Noche, Ojos, Plumas, Sabio, Lechuza, Ave, Nocturno | 2
+MURCIÉLAGO: Cueva, Noche, Volar, Alas, Vampiro, Colgar, Batman | 2
+LOBO: Aullar, Luna, Manada, Bosque, Caperucita, Feroz, Perro
+
+## objetos | Objetos cotidianos | 🔑 | 1
+PARAGUAS: Lluvia, Mojar, Abrir, Mango, Impermeable, Tormenta, Sombrilla
+LLAVE: Cerradura, Puerta, Abrir, Cerrajero, Metal, Casa, Candado
+TIJERAS: Cortar, Papel, Filo, Pelo, Manualidades, Dedos, Cuchilla
+CEPILLO DE DIENTES: Pasta, Higiene, Boca, Lavar, Cerdas, Muelas, Baño
+ESPEJO: Reflejo, Cara, Baño, Vidrio, Mirar, Imagen, Roto
+RELOJ: Hora, Tiempo, Minutos, Muñeca, Manecillas, Pared, Alarma
+GAFAS: Lentes, Ojos, Ver, Cristal, Montura, Sol, Visión
+MOCHILA: Espalda, Cargar, Escuela, Cierre, Libros, Correas, Viaje
+BILLETERA: Dinero, Bolsillo, Tarjetas, Cuero, Efectivo, Cédula, Monedas
+VELA: Cera, Llama, Fuego, Cumpleaños, Mecha, Apagar, Luz
+PEINE: Cabello, Pelo, Dientes, Peinar, Plástico, Desenredar, Cepillo
+CANDADO: Llave, Seguridad, Cerrar, Bicicleta, Metal, Cadena, Combinación
+LINTERNA: Luz, Pilas, Oscuridad, Batería, Alumbrar, Noche, Camping
+MARTILLO: Clavo, Golpear, Herramienta, Madera, Carpintero, Mango, Construcción
+TERMO: Caliente, Café, Agua, Botella, Frío, Mantener, Tapa
+SOMBRERO: Cabeza, Sol, Ala, Vaquero, Gorra, Paja, Cubrir
+ALMOHADA: Dormir, Cama, Cabeza, Suave, Plumas, Cuello, Noche
+JABÓN: Lavar, Espuma, Manos, Baño, Limpiar, Barra, Agua
+BOLSA: Compras, Plástico, Supermercado, Llevar, Asas, Papel, Cargar
+CUCHARA: Sopa, Comer, Tenedor, Metal, Cubiertos, Plato, Helado
+PILAS: Energía, Batería, Control, Cargar, Gastadas, Linterna, Positivo | 2
+BALDE: Agua, Playa, Arena, Cubeta, Asa, Trapear, Plástico
+ENCENDEDOR: Fuego, Llama, Gas, Cigarrillo, Chispa, Prender, Bolsillo | 2
+ABRELATAS: Conserva, Abrir, Cocina, Atún, Metal, Manivela, Sardinas | 2
+
+## tecnologia | Tecnología y electrónica | 💻 | 2
+TELÉFONO: Llamar, Celular, Pantalla, Móvil, Marcar, Contestar, Número | 1
+COMPUTADOR: Teclado, Mouse, Pantalla, Internet, Portátil, Windows, Trabajar | 1
+TELEVISOR: Pantalla, Canal, Control, Ver, Series, Sala, Programas | 1
+AUDÍFONOS: Oídos, Música, Cable, Bluetooth, Escuchar, Sonido, Orejas | 1
+CARGADOR: Batería, Enchufe, Cable, Celular, Energía, Pared, USB | 1
+CÁMARA: Foto, Lente, Imagen, Flash, Video, Tomar, Fotografía | 1
+DRON: Volar, Hélices, Control, Cámara, Aire, Zumbido, Teledirigido
+IMPRESORA: Papel, Tinta, Documento, Hojas, Copia, Cartucho, Escáner
+ROBOT: Máquina, Metal, Autómata, Programar, Futuro, Humanoide, Cyborg
+BLUETOOTH: Inalámbrico, Conectar, Audífonos, Parlante, Dispositivos, Azul, Emparejar
+BATERÍA: Cargar, Energía, Pila, Celular, Carga, Agotarse, Litio
+PANTALLA: Ver, Imagen, Táctil, Celular, Televisor, Monitor, Resolución
+TECLADO: Teclas, Escribir, Computador, Letras, Mouse, Dedos, Espacio
+MOUSE: Ratón, Clic, Cursor, Computador, Flecha, Rueda, Pad
+ROUTER: Wi-Fi, Internet, Señal, Cable, Antena, Conexión, Luces
+CALCULADORA: Sumar, Números, Matemáticas, Operaciones, Teclas, Resultado, Dividir | 1
+SMARTWATCH: Reloj, Muñeca, Pasos, Notificaciones, Inteligente, Celular, Pulso
+PARLANTE: Sonido, Música, Volumen, Bocina, Bluetooth, Bajo, Fiesta
+MICRÓFONO: Voz, Cantar, Hablar, Sonido, Grabar, Karaoke, Cable
+INTELIGENCIA ARTIFICIAL: Robot, Chat, Máquina, Aprender, Datos, ChatGPT, Algoritmo
+GPS: Mapa, Ruta, Satélite, Ubicación, Dirección, Navegar, Carro
+USB: Memoria, Puerto, Cable, Computador, Archivos, Pendrive, Conectar
+LÁSER: Luz, Rayo, Puntero, Rojo, Gato, Cortar, Haz
+
+## videojuegos | Videojuegos | 🎮 | 2
+VIDEOJUEGO: Jugar, Consola, Control, Pantalla, Personaje, Nivel, Partida | 1
+MINECRAFT: Cubos, Bloques, Creeper, Construir, Picar, Steve, Mundo
+FORTNITE: Battle royale, Bailes, Construir, Isla, Skins, Disparar, Victoria
+MARIO BROS: Fontanero, Bigote, Hongo, Princesa, Salto, Nintendo, Luigi
+POKÉMON: Pikachu, Atrapar, Pokébola, Entrenador, Evolucionar, Ash, Monstruos
+PAC-MAN: Fantasmas, Laberinto, Amarillo, Comer, Puntos, Arcade, Bolitas
+TETRIS: Bloques, Piezas, Línea, Caer, Rotar, Rusia, Rompecabezas
+CONSOLA: Videojuegos, Control, PlayStation, Xbox, Televisor, Jugar, Nintendo | 1
+JOYSTICK: Palanca, Mando, Botones, Control, Arcade, Mover, Videojuego
+ARCADE: Monedas, Fichas, Máquina, Joystick, Salón, Retro, Récord
+FIFA: Fútbol, Equipo, Ultimate, Consola, Partido, Cartas, Jugadores
+ROBLOX: Avatar, Bloques, Robux, Servidor, Creador, Amigos, Obby
+AMONG US: Impostor, Nave, Tripulante, Sospechoso, Rojo, Votar, Tareas
+ZELDA: Link, Espada, Princesa, Hyrule, Triforce, Nintendo, Mazmorras
+SONIC: Erizo, Velocidad, Azul, Anillos, Sega, Correr, Tails
+ANGRY BIRDS: Pájaros, Cerdos, Resortera, Teléfono, Enojados, Rojo, Lanzar
+CANDY CRUSH: Dulces, Combinar, Colores, Vidas, Nivel, Celular, Caramelos
+GAMER: Videojuegos, Jugar, Consola, Silla, Audífonos, Horas, Streaming
+NIVEL: Pasar, Jefe, Videojuego, Dificultad, Etapa, Subir, Experiencia
+JEFE FINAL: Último, Derrotar, Videojuego, Nivel, Enemigo, Difícil, Batalla
+SKIN: Personaje, Apariencia, Fortnite, Cambiar, Comprar, Cosmético, Disfraz
+GAME OVER: Perder, Fin, Vidas, Pantalla, Reiniciar, Derrota, Videojuego

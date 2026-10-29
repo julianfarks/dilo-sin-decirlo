@@ -1,0 +1,119 @@
+## personajes | Personajes y figuras conocidas | 🌟 | 2
+ALBERT EINSTEIN: Relatividad, Científico, Física, Pelo blanco, Genio, Alemania, Fórmula
+LIONEL MESSI: Argentina, Barcelona, Goles, Zurdo, Mundial, Pulga, Balón de Oro | 1
+SHAKIRA: Cantante, Colombia, Caderas, Barranquilla, Waka Waka, Rubia, Bailar | 1
+GABRIEL GARCÍA MÁRQUEZ: Gabo, Cien años de soledad, Escritor, Nobel, Colombia, Macondo, Realismo mágico | 3
+CRISTÓBAL COLÓN: América, Descubrir, Carabelas, 1492, Navegante, España, Barcos
+SIMÓN BOLÍVAR: Libertador, Venezuela, Independencia, Caballo, Colombia, Estatua, Héroe
+LEONARDO DA VINCI: Mona Lisa, Inventor, Pintor, Renacimiento, Italiano, Cuadros, Genio
+FRIDA KAHLO: Pintora, Cejas, México, Autorretratos, Flores, Diego Rivera, Coyoacán | 3
+PELÉ: Brasil, Fútbol, Rey, Tres mundiales, Goles, Camiseta, Santos
+DIEGO MARADONA: Argentina, Mano de Dios, Napoli, Diez, Boca Juniors, Pelusa, Fútbol | 1
+CHARLIE CHAPLIN: Cine mudo, Bigote, Bastón, Sombrero, Vagabundo, Película, Comedia
+MICHAEL JACKSON: Moonwalk, Rey del pop, Guante, Thriller, Cantante, Baile, Sombrero
+ELVIS PRESLEY: Rock, Rey, Cantante, Caderas, Memphis, Peinado, Guitarra
+CLEOPATRA: Egipto, Reina, Faraona, Serpiente, Antigua, Nilo, César
+NAPOLEÓN: Francia, Emperador, Sombrero, Baja estatura, Waterloo, Ejército, Guerra
+MOZART: Compositor, Piano, Niño prodigio, Austria, Clásica, Sinfonías, Peluca | 3
+BEETHOVEN: Compositor, Sordo, Piano, Sinfonía, Alemán, Clásica, Quinta | 3
+SHERLOCK HOLMES: Detective, Lupa, Londres, Watson, Pipa, Misterio, Gorra
+SANTA CLAUS: Navidad, Regalos, Trineo, Barba, Rojo, Reno, Polo Norte | 1
+SUPERMAN: Capa, Volar, Kriptonita, Clark Kent, Superhéroe, Krypton, Fuerza | 1
+BATMAN: Murciélago, Gotham, Capa, Joker, Superhéroe, Bruce Wayne, Máscara | 1
+ISAAC NEWTON: Gravedad, Manzana, Física, Inglés, Científico, Leyes, Peluca
+
+## dificiles_describir | Objetos difíciles de describir | 🧩 | 3
+ENCHUFE: Corriente, Pared, Cable, Electricidad, Clavijas, Conectar, Tomacorriente
+BISAGRA: Puerta, Giro, Abrir, Metal, Ventana, Tornillo, Chirriar
+TORNILLO: Herramienta, Rosca, Metal, Madera, Apretar, Tuerca, Ajustar
+TUERCA: Tornillo, Metal, Apretar, Llave, Rosca, Hexagonal, Mecánica
+CLIP: Papel, Sujetar, Oficina, Metal, Documentos, Alambre, Papelería
+GRAPADORA: Grapas, Papel, Oficina, Unir, Presionar, Hojas, Metal
+BOTÓN: Presionar, Camisa, Ojal, Hilo, Timbre, Apretar, Redondo
+CREMALLERA: Cierre, Dientes, Subir, Pantalón, Abrir, Cerrar, Chaqueta
+VELCRO: Pegar, Zapatos, Adherir, Rasgar, Ganchos, Cierre, Tira
+IMÁN: Metal, Nevera, Atraer, Polos, Magnético, Pegar, Hierro
+PEGAMENTO: Pegar, Unir, Adhesivo, Papel, Manualidades, Tubo, Secar
+CINTA ADHESIVA: Pegar, Rollo, Transparente, Papel, Empaque, Cortar, Pegajosa
+GANCHO: Colgar, Ropa, Metal, Sujetar, Armario, Curvo, Alambre
+ALFILER: Punta, Coser, Pinchar, Aguja, Ropa, Metal, Cabeza
+AGUJA: Coser, Hilo, Pinchar, Punta, Ojal, Inyección, Costura
+HILO: Coser, Aguja, Tela, Carrete, Costura, Delgado, Lana
+TAPÓN: Botella, Cerrar, Lavamanos, Corcho, Tapar, Agua, Plástico
+EMBUDO: Líquido, Verter, Cono, Botella, Aceite, Agujero, Cocina
+COLADOR: Pasta, Agujeros, Escurrir, Agua, Cocina, Té, Malla
+RALLADOR: Queso, Cocina, Zanahoria, Agujeros, Cortar, Metal, Rayar
+DESTORNILLADOR: Herramienta, Punta, Apretar, Mango, Plano, Estrella, Girar
+PERILLA: Girar, Puerta, Estufa, Manija, Redonda, Volumen, Abrir
+
+## graciosas | Palabras graciosas | 🤣 | 2
+CHISME: Rumor, Contar, Secreto, Vecina, Hablar, Cuchicheo, Murmullo
+ERUPTO: Gas, Comer, Boca, Sonido, Ruido, Gaseosa, Estómago
+HIPO: Respirar, Susto, Ruido, Diafragma, Agua, Hip, Espasmo
+COSQUILLAS: Risa, Pies, Tocar, Dedos, Axilas, Reír, Plumas | 1
+TROPEZAR: Caer, Piedra, Pies, Escalón, Torpe, Caminar, Piso | 1
+RONCAR: Dormir, Ruido, Nariz, Noche, Cama, Pareja, Sonido | 1
+CHANCLA: Zapato, Mamá, Pie, Playa, Volar, Castigo, Sandalia | 1
+PIÑATA: Palo, Dulces, Cumpleaños, Golpear, Venda, Fiesta, Romper | 1
+ABUELA: Tejer, Nieto, Comida, Cariño, Mimos, Anciana, Mecedora | 1
+SUEGRA: Familia, Esposo, Yerno, Visita, Chiste, Consejos, Madre
+TACAÑO: Dinero, Gastar, Avaro, Ahorrar, Pagar, Monedas, Bolsillo
+CARCAJADA: Fuerte, Estruendosa, Risa, Barriga, Ruidosa, Estallar, Gracioso
+PAYASADA: Bromear, Tonto, Circo, Gracioso, Hacer reír, Ridículo, Chiste
+BROMA: Engañar, Risa, Amigos, Primero de abril, Susto, Gracioso, Inocentada
+CALVO: Pelo, Cabeza, Sin cabello, Brillar, Peluca, Pelón, Sol | 1
+PELUCA: Pelo, Falso, Cabeza, Calvo, Disfraz, Payaso, Rizada | 1
+TRAVESURA: Niño, Hacer, Broma, Castigo, Desorden, Pícaro, Travieso
+ASCENSOR: Subir, Edificio, Botones, Pisos, Incómodo, Espera, Música
+TORPE: Caerse, Accidente, Romper, Tropezar, Descuidado, Manos, Tonto
+CHISTE: Reír, Gracioso, Contar, Risa, Remate, Humor, Broma | 1
+MOCOS: Nariz, Sonar, Verde, Dedo, Niños, Asqueroso, Fosas
+PEGAJOSO: Chicle, Miel, Manos, Pegar, Dulce, Adherente, Sucio
+
+## dificiles | Palabras difíciles | 🧠 | 3
+LIBERTAD: Cadenas, Derechos, Volar, Independencia, Prisión, Elegir, Democracia
+JUSTICIA: Juez, Balanza, Ley, Tribunal, Igualdad, Derecho, Castigo
+PACIENCIA: Esperar, Calma, Tranquilidad, Tiempo, Aguantar, Fila, Virtud
+HONESTIDAD: Verdad, Mentir, Sincero, Decir, Valor, Confianza, Engañar
+AMISTAD: Amigos, Compañero, Confianza, Cariño, Lealtad, Juntos, Querer | 2
+FAMILIA: Padres, Hijos, Hermanos, Casa, Abuelos, Parientes, Mamá | 2
+ÉXITO: Triunfo, Lograr, Ganar, Metas, Fama, Fracaso, Dinero
+FRACASO: Perder, Error, Intentar, Derrota, Aprender, Éxito, Fallar
+TIEMPO: Reloj, Horas, Pasado, Futuro, Minutos, Segundos, Calendario | 2
+DINERO: Billetes, Monedas, Banco, Pagar, Plata, Riqueza, Comprar | 2
+SUERTE: Azar, Trébol, Lotería, Casualidad, Fortuna, Buena, Dados
+MEMORIA: Recordar, Olvidar, Cerebro, Recuerdos, Mente, Pasado, Guardar
+IMAGINACIÓN: Fantasía, Mente, Crear, Soñar, Ideas, Creatividad, Niños
+SECRETO: Callar, Confidencia, Oculto, Decir, Privado, Chisme, Guardar
+VERDAD: Mentira, Real, Honesto, Cierto, Falso, Decir, Realidad
+MENTIRA: Verdad, Falso, Engañar, Decir, Pinocho, Cuento, Nariz
+DESTINO: Futuro, Suerte, Escrito, Camino, Vida, Predestinado, Fortuna
+RECUERDO: Pasado, Memoria, Foto, Nostalgia, Infancia, Álbum, Olvidar
+SILENCIO: Callar, Ruido, Quietud, Sin hablar, Biblioteca, Shhh, Paz
+OPORTUNIDAD: Chance, Momento, Aprovechar, Trabajo, Puerta, Suerte, Ocasión
+COSTUMBRE: Hábito, Tradición, Repetir, Rutina, Siempre, Cultura, Diario
+PRIVACIDAD: Datos, Secreto, Personal, Intimidad, Redes, Proteger, Espiar
+
+## latam | Cultura popular latinoamericana | 🌮 | 2
+CHAVO DEL OCHO: Vecindad, Barril, Chespirito, Quico, Doña Florinda, Serie, México
+SELECCIÓN COLOMBIA: Amarilla, Fútbol, Mundial, James, Camiseta, Tricolor, Copa
+TANGO: Argentina, Bailar, Pareja, Buenos Aires, Gardel, Bandoneón, Abrazo
+SAMBA: Brasil, Carnaval, Bailar, Río, Plumas, Ritmo, Desfile
+CUMBIA: Baile, Gaita, Tambor, Costa, Pollera, Ritmo, Caribe
+DÍA DE MUERTOS: México, Calaveras, Ofrenda, Altar, Cempasúchil, Noviembre, Catrina | 3
+SOMBRERO VUELTIAO: Colombia, Caña flecha, Costa, Negro, Cabeza, Blanco, Artesanía | 3
+RUANA: Boyacá, Poncho, Andes, Campesino, Hombros, Cobija, Bogotá | 3
+CHIVA: Bus, Colombia, Colores, Rumba, Pueblo, Escalera, Techo
+LLAMA: Perú, Lana, Andes, Escupir, Animal, Alpaca, Montaña | 1
+MACHU PICCHU: Perú, Incas, Ruinas, Montaña, Cusco, Ciudad perdida, Maravilla
+TAMALES: Hoja, Masa, Maíz, Navidad, Cerdo, Envuelto, Vapor
+BUÑUELOS: Navidad, Frito, Natilla, Bola, Queso, Diciembre, Dulce
+ASADO: Carne, Parrilla, Argentina, Fuego, Domingo, Chorizo, Brasas | 1
+CEVICHE: Pescado, Limón, Perú, Crudo, Cebolla, Mariscos, Ácido
+GUACAMOLE: Aguacate, México, Nachos, Verde, Picante, Salsa, Totopos
+ALFAJOR: Dulce de leche, Galleta, Argentina, Chocolate, Maicena, Coco, Postre
+MATE: Argentina, Yerba, Termo, Calabaza, Bombilla, Infusión, Uruguay
+MARACAS: Instrumento, Sonar, Agitar, Caribe, Semillas, Ritmo, Dos
+TELENOVELA: Drama, Amor, Capítulos, Villana, Televisión, Lágrimas, Mexicana | 1
+LUCHA LIBRE: Máscara, México, Ring, Luchador, Capa, Salto, Combate
+BANDEJA PAISA: Frijoles, Chicharrón, Antioquia, Arroz, Huevo, Plato, Medellín

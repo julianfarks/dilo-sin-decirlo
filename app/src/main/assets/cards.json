@@ -1,0 +1,8081 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "comida",
+   "name": "Comida y bebidas",
+   "emoji": "🍕",
+   "difficulty": 1
+  },
+  {
+   "id": "animales",
+   "name": "Animales",
+   "emoji": "🐘",
+   "difficulty": 1
+  },
+  {
+   "id": "objetos",
+   "name": "Objetos cotidianos",
+   "emoji": "🔑",
+   "difficulty": 1
+  },
+  {
+   "id": "tecnologia",
+   "name": "Tecnología y electrónica",
+   "emoji": "💻",
+   "difficulty": 2
+  },
+  {
+   "id": "videojuegos",
+   "name": "Videojuegos",
+   "emoji": "🎮",
+   "difficulty": 2
+  },
+  {
+   "id": "deportes",
+   "name": "Deportes",
+   "emoji": "⚽",
+   "difficulty": 2
+  },
+  {
+   "id": "entretenimiento",
+   "name": "Películas y entretenimiento",
+   "emoji": "🎬",
+   "difficulty": 2
+  },
+  {
+   "id": "profesiones",
+   "name": "Profesiones y trabajos",
+   "emoji": "👷",
+   "difficulty": 1
+  },
+  {
+   "id": "lugares",
+   "name": "Lugares y países",
+   "emoji": "🌎",
+   "difficulty": 2
+  },
+  {
+   "id": "transporte",
+   "name": "Transporte y vehículos",
+   "emoji": "🚗",
+   "difficulty": 1
+  },
+  {
+   "id": "hogar",
+   "name": "Hogar y electrodomésticos",
+   "emoji": "🏠",
+   "difficulty": 1
+  },
+  {
+   "id": "cuerpo",
+   "name": "Cuerpo humano",
+   "emoji": "🫀",
+   "difficulty": 1
+  },
+  {
+   "id": "naturaleza",
+   "name": "Naturaleza y clima",
+   "emoji": "🌦️",
+   "difficulty": 1
+  },
+  {
+   "id": "musica",
+   "name": "Música e instrumentos",
+   "emoji": "🎸",
+   "difficulty": 2
+  },
+  {
+   "id": "ropa",
+   "name": "Ropa y accesorios",
+   "emoji": "👕",
+   "difficulty": 1
+  },
+  {
+   "id": "escuela",
+   "name": "Escuela y educación",
+   "emoji": "📚",
+   "difficulty": 1
+  },
+  {
+   "id": "internet",
+   "name": "Internet y redes sociales",
+   "emoji": "📱",
+   "difficulty": 2
+  },
+  {
+   "id": "emociones",
+   "name": "Emociones y sentimientos",
+   "emoji": "💖",
+   "difficulty": 2
+  },
+  {
+   "id": "acciones",
+   "name": "Acciones y verbos",
+   "emoji": "🏃",
+   "difficulty": 2
+  },
+  {
+   "id": "cultura",
+   "name": "Cultura general",
+   "emoji": "🧠",
+   "difficulty": 2
+  },
+  {
+   "id": "personajes",
+   "name": "Personajes y figuras conocidas",
+   "emoji": "🌟",
+   "difficulty": 2
+  },
+  {
+   "id": "dificiles_describir",
+   "name": "Objetos difíciles de describir",
+   "emoji": "🧩",
+   "difficulty": 3
+  },
+  {
+   "id": "graciosas",
+   "name": "Palabras graciosas",
+   "emoji": "🤣",
+   "difficulty": 2
+  },
+  {
+   "id": "dificiles",
+   "name": "Palabras difíciles",
+   "emoji": "🧠",
+   "difficulty": 3
+  },
+  {
+   "id": "latam",
+   "name": "Cultura popular latinoamericana",
+   "emoji": "🌮",
+   "difficulty": 2
+  }
+ ],
+ "cards": [
+  {
+   "word": "PIZZA",
+   "forbidden": [
+    "Queso",
+    "Masa",
+    "Horno",
+    "Porción",
+    "Italiana",
+    "Tomate",
+    "Pepperoni"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "CHOCOLATE",
+   "forbidden": [
+    "Cacao",
+    "Dulce",
+    "Barra",
+    "Postre",
+    "Marrón",
+    "Derretir",
+    "Bombón"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "HAMBURGUESA",
+   "forbidden": [
+    "Carne",
+    "Pan",
+    "Lechuga",
+    "Papas",
+    "Ketchup",
+    "Comida rápida",
+    "Combo"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "TACO",
+   "forbidden": [
+    "Tortilla",
+    "México",
+    "Salsa",
+    "Picante",
+    "Carne",
+    "Maíz",
+    "Guacamole"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "AREPA",
+   "forbidden": [
+    "Maíz",
+    "Queso",
+    "Harina",
+    "Colombia",
+    "Venezuela",
+    "Rellena",
+    "Parrilla"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "EMPANADA",
+   "forbidden": [
+    "Masa",
+    "Relleno",
+    "Frita",
+    "Carne",
+    "Horno",
+    "Ají",
+    "Doblada"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "HELADO",
+   "forbidden": [
+    "Frío",
+    "Cono",
+    "Sabor",
+    "Cuchara",
+    "Derretir",
+    "Vainilla",
+    "Postre"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "PALOMITAS",
+   "forbidden": [
+    "Maíz",
+    "Cine",
+    "Película",
+    "Mantequilla",
+    "Reventar",
+    "Microondas",
+    "Sal"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "SOPA",
+   "forbidden": [
+    "Caldo",
+    "Cuchara",
+    "Caliente",
+    "Plato",
+    "Fideos",
+    "Hervir",
+    "Verduras"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "HUEVO",
+   "forbidden": [
+    "Gallina",
+    "Cáscara",
+    "Yema",
+    "Clara",
+    "Freír",
+    "Desayuno",
+    "Romper"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "PAN",
+   "forbidden": [
+    "Trigo",
+    "Harina",
+    "Hornear",
+    "Tostada",
+    "Mantequilla",
+    "Baguette",
+    "Migas"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "QUESO",
+   "forbidden": [
+    "Leche",
+    "Ratón",
+    "Rallar",
+    "Amarillo",
+    "Hueco",
+    "Cheddar",
+    "Mozzarella"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "CAFÉ",
+   "forbidden": [
+    "Taza",
+    "Estimulante",
+    "Grano",
+    "Mañana",
+    "Negro",
+    "Despertar",
+    "Colombia"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "LIMONADA",
+   "forbidden": [
+    "Cítrico",
+    "Ácida",
+    "Jugo",
+    "Vaso",
+    "Fresca",
+    "Azúcar",
+    "Exprimir"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "SUSHI",
+   "forbidden": [
+    "Arroz",
+    "Pescado",
+    "Japón",
+    "Palillos",
+    "Alga",
+    "Crudo",
+    "Salmón"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "ESPAGUETI",
+   "forbidden": [
+    "Pasta",
+    "Salsa",
+    "Italiana",
+    "Tenedor",
+    "Fideo",
+    "Boloñesa",
+    "Hervir"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "MIEL",
+   "forbidden": [
+    "Abeja",
+    "Dulce",
+    "Panal",
+    "Colmena",
+    "Amarilla",
+    "Pegajosa",
+    "Néctar"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "CEREAL",
+   "forbidden": [
+    "Desayuno",
+    "Leche",
+    "Caja",
+    "Tazón",
+    "Maíz",
+    "Hojuelas",
+    "Mañana"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "ENSALADA",
+   "forbidden": [
+    "Lechuga",
+    "Verduras",
+    "Tomate",
+    "Aderezo",
+    "Saludable",
+    "Verde",
+    "Dieta"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "CHURROS",
+   "forbidden": [
+    "Frito",
+    "Azúcar",
+    "Canela",
+    "Dulce de leche",
+    "Masa",
+    "España",
+    "Chocolate"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "YOGUR",
+   "forbidden": [
+    "Leche",
+    "Fruta",
+    "Cuchara",
+    "Cremoso",
+    "Probióticos",
+    "Vaso",
+    "Desayuno"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "MERMELADA",
+   "forbidden": [
+    "Fruta",
+    "Dulce",
+    "Pan",
+    "Frasco",
+    "Fresa",
+    "Untar",
+    "Tostada"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "AGUACATE",
+   "forbidden": [
+    "Verde",
+    "Guacamole",
+    "Hueso",
+    "Palta",
+    "Fruta",
+    "Tostada",
+    "Cremoso"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "CHICLE",
+   "forbidden": [
+    "Masticar",
+    "Boca",
+    "Pegajoso",
+    "Globo",
+    "Menta",
+    "Goma",
+    "Sabor"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "PAPAS FRITAS",
+   "forbidden": [
+    "Aceite",
+    "Sal",
+    "Freír",
+    "Tubérculo",
+    "Bolsa",
+    "Ketchup",
+    "Crujientes"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "BANANO",
+   "forbidden": [
+    "Amarillo",
+    "Cáscara",
+    "Fruta",
+    "Mono",
+    "Racimo",
+    "Pelar",
+    "Plátano"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "SANCOCHO",
+   "forbidden": [
+    "Sopa",
+    "Plátano",
+    "Yuca",
+    "Gallina",
+    "Colombia",
+    "Domingo",
+    "Olla"
+   ],
+   "category": "comida",
+   "difficulty": 2
+  },
+  {
+   "word": "TORTA",
+   "forbidden": [
+    "Cumpleaños",
+    "Velas",
+    "Pastel",
+    "Horno",
+    "Crema",
+    "Rebanada",
+    "Dulce"
+   ],
+   "category": "comida",
+   "difficulty": 1
+  },
+  {
+   "word": "ELEFANTE",
+   "forbidden": [
+    "Trompa",
+    "Grande",
+    "Animal",
+    "Orejas",
+    "Colmillos",
+    "África",
+    "Gris"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "PERRO",
+   "forbidden": [
+    "Ladrar",
+    "Mascota",
+    "Cola",
+    "Hueso",
+    "Fiel",
+    "Collar",
+    "Guau"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "GATO",
+   "forbidden": [
+    "Maullar",
+    "Bigotes",
+    "Mascota",
+    "Ratón",
+    "Felino",
+    "Garras",
+    "Leche"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "LEÓN",
+   "forbidden": [
+    "Rey",
+    "Melena",
+    "Selva",
+    "Rugir",
+    "Felino",
+    "Sabana",
+    "Manada"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "JIRAFA",
+   "forbidden": [
+    "Cuello",
+    "Largo",
+    "Manchas",
+    "África",
+    "Hojas",
+    "Alta",
+    "Sabana"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "PINGÜINO",
+   "forbidden": [
+    "Hielo",
+    "Antártida",
+    "Frío",
+    "Smoking",
+    "Volar",
+    "Blanco",
+    "Negro"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "DELFÍN",
+   "forbidden": [
+    "Mar",
+    "Mamífero",
+    "Saltar",
+    "Inteligente",
+    "Acuario",
+    "Agua",
+    "Aleta"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "TIBURÓN",
+   "forbidden": [
+    "Dientes",
+    "Aleta",
+    "Mar",
+    "Peligroso",
+    "Playa",
+    "Película",
+    "Pez"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "SERPIENTE",
+   "forbidden": [
+    "Veneno",
+    "Reptil",
+    "Arrastrarse",
+    "Víbora",
+    "Lengua",
+    "Cobra",
+    "Piel"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "ARAÑA",
+   "forbidden": [
+    "Trampa",
+    "Patas",
+    "Ocho",
+    "Arácnido",
+    "Veneno",
+    "Tejer",
+    "Peluda"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "MARIPOSA",
+   "forbidden": [
+    "Alas",
+    "Oruga",
+    "Colores",
+    "Volar",
+    "Capullo",
+    "Insecto",
+    "Flor"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "ABEJA",
+   "forbidden": [
+    "Miel",
+    "Picar",
+    "Colmena",
+    "Zumbido",
+    "Polen",
+    "Reina",
+    "Flor"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "GALLINA",
+   "forbidden": [
+    "Huevos",
+    "Corral",
+    "Pollito",
+    "Plumas",
+    "Granja",
+    "Cacarear",
+    "Gallo"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "VACA",
+   "forbidden": [
+    "Leche",
+    "Granja",
+    "Muu",
+    "Manchas",
+    "Pasto",
+    "Cuernos",
+    "Campo"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "CABALLO",
+   "forbidden": [
+    "Montar",
+    "Galopar",
+    "Crin",
+    "Herradura",
+    "Establo",
+    "Relincho",
+    "Jinete"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "CERDO",
+   "forbidden": [
+    "Granja",
+    "Barro",
+    "Chancho",
+    "Tocino",
+    "Rosado",
+    "Gruñir",
+    "Marrano"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "TORTUGA",
+   "forbidden": [
+    "Caparazón",
+    "Lenta",
+    "Reptil",
+    "Liebre",
+    "Mar",
+    "Huevos",
+    "Verde"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "MONO",
+   "forbidden": [
+    "Banano",
+    "Árbol",
+    "Cola",
+    "Selva",
+    "Primate",
+    "Chimpancé",
+    "Trepar"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "OSO",
+   "forbidden": [
+    "Miel",
+    "Bosque",
+    "Hibernar",
+    "Garras",
+    "Peludo",
+    "Panda",
+    "Cueva"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "CANGURO",
+   "forbidden": [
+    "Bolsa",
+    "Saltar",
+    "Australia",
+    "Cría",
+    "Marsupial",
+    "Cola",
+    "Boxeo"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "PULPO",
+   "forbidden": [
+    "Tentáculos",
+    "Ocho",
+    "Tinta",
+    "Mar",
+    "Brazos",
+    "Molusco",
+    "Ventosas"
+   ],
+   "category": "animales",
+   "difficulty": 2
+  },
+  {
+   "word": "COCODRILO",
+   "forbidden": [
+    "Reptil",
+    "Dientes",
+    "Río",
+    "Lágrimas",
+    "Caimán",
+    "Pantano",
+    "Mandíbula"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "BÚHO",
+   "forbidden": [
+    "Noche",
+    "Ojos",
+    "Plumas",
+    "Sabio",
+    "Lechuza",
+    "Ave",
+    "Nocturno"
+   ],
+   "category": "animales",
+   "difficulty": 2
+  },
+  {
+   "word": "MURCIÉLAGO",
+   "forbidden": [
+    "Cueva",
+    "Noche",
+    "Volar",
+    "Alas",
+    "Vampiro",
+    "Colgar",
+    "Batman"
+   ],
+   "category": "animales",
+   "difficulty": 2
+  },
+  {
+   "word": "LOBO",
+   "forbidden": [
+    "Aullar",
+    "Luna",
+    "Manada",
+    "Bosque",
+    "Caperucita",
+    "Feroz",
+    "Perro"
+   ],
+   "category": "animales",
+   "difficulty": 1
+  },
+  {
+   "word": "PARAGUAS",
+   "forbidden": [
+    "Lluvia",
+    "Mojar",
+    "Abrir",
+    "Mango",
+    "Impermeable",
+    "Tormenta",
+    "Sombrilla"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "LLAVE",
+   "forbidden": [
+    "Cerradura",
+    "Puerta",
+    "Abrir",
+    "Cerrajero",
+    "Metal",
+    "Casa",
+    "Candado"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "TIJERAS",
+   "forbidden": [
+    "Cortar",
+    "Papel",
+    "Filo",
+    "Pelo",
+    "Manualidades",
+    "Dedos",
+    "Cuchilla"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "CEPILLO DE DIENTES",
+   "forbidden": [
+    "Pasta",
+    "Higiene",
+    "Boca",
+    "Lavar",
+    "Cerdas",
+    "Muelas",
+    "Baño"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "ESPEJO",
+   "forbidden": [
+    "Reflejo",
+    "Cara",
+    "Baño",
+    "Vidrio",
+    "Mirar",
+    "Imagen",
+    "Roto"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "RELOJ",
+   "forbidden": [
+    "Hora",
+    "Tiempo",
+    "Minutos",
+    "Muñeca",
+    "Manecillas",
+    "Pared",
+    "Alarma"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "GAFAS",
+   "forbidden": [
+    "Lentes",
+    "Ojos",
+    "Ver",
+    "Cristal",
+    "Montura",
+    "Sol",
+    "Visión"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "MOCHILA",
+   "forbidden": [
+    "Espalda",
+    "Cargar",
+    "Escuela",
+    "Cierre",
+    "Libros",
+    "Correas",
+    "Viaje"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "BILLETERA",
+   "forbidden": [
+    "Dinero",
+    "Bolsillo",
+    "Tarjetas",
+    "Cuero",
+    "Efectivo",
+    "Cédula",
+    "Monedas"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "VELA",
+   "forbidden": [
+    "Cera",
+    "Llama",
+    "Fuego",
+    "Cumpleaños",
+    "Mecha",
+    "Apagar",
+    "Luz"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "PEINE",
+   "forbidden": [
+    "Cabello",
+    "Pelo",
+    "Dientes",
+    "Peinar",
+    "Plástico",
+    "Desenredar",
+    "Cepillo"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "CANDADO",
+   "forbidden": [
+    "Llave",
+    "Seguridad",
+    "Cerrar",
+    "Bicicleta",
+    "Metal",
+    "Cadena",
+    "Combinación"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "LINTERNA",
+   "forbidden": [
+    "Luz",
+    "Pilas",
+    "Oscuridad",
+    "Batería",
+    "Alumbrar",
+    "Noche",
+    "Camping"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "MARTILLO",
+   "forbidden": [
+    "Clavo",
+    "Golpear",
+    "Herramienta",
+    "Madera",
+    "Carpintero",
+    "Mango",
+    "Construcción"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "TERMO",
+   "forbidden": [
+    "Caliente",
+    "Café",
+    "Agua",
+    "Botella",
+    "Frío",
+    "Mantener",
+    "Tapa"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "SOMBRERO",
+   "forbidden": [
+    "Cabeza",
+    "Sol",
+    "Ala",
+    "Vaquero",
+    "Gorra",
+    "Paja",
+    "Cubrir"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "ALMOHADA",
+   "forbidden": [
+    "Dormir",
+    "Cama",
+    "Cabeza",
+    "Suave",
+    "Plumas",
+    "Cuello",
+    "Noche"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "JABÓN",
+   "forbidden": [
+    "Lavar",
+    "Espuma",
+    "Manos",
+    "Baño",
+    "Limpiar",
+    "Barra",
+    "Agua"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "BOLSA",
+   "forbidden": [
+    "Compras",
+    "Plástico",
+    "Supermercado",
+    "Llevar",
+    "Asas",
+    "Papel",
+    "Cargar"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "CUCHARA",
+   "forbidden": [
+    "Sopa",
+    "Comer",
+    "Tenedor",
+    "Metal",
+    "Cubiertos",
+    "Plato",
+    "Helado"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "PILAS",
+   "forbidden": [
+    "Energía",
+    "Batería",
+    "Control",
+    "Cargar",
+    "Gastadas",
+    "Linterna",
+    "Positivo"
+   ],
+   "category": "objetos",
+   "difficulty": 2
+  },
+  {
+   "word": "BALDE",
+   "forbidden": [
+    "Agua",
+    "Playa",
+    "Arena",
+    "Cubeta",
+    "Asa",
+    "Trapear",
+    "Plástico"
+   ],
+   "category": "objetos",
+   "difficulty": 1
+  },
+  {
+   "word": "ENCENDEDOR",
+   "forbidden": [
+    "Fuego",
+    "Llama",
+    "Gas",
+    "Cigarrillo",
+    "Chispa",
+    "Prender",
+    "Bolsillo"
+   ],
+   "category": "objetos",
+   "difficulty": 2
+  },
+  {
+   "word": "ABRELATAS",
+   "forbidden": [
+    "Conserva",
+    "Abrir",
+    "Cocina",
+    "Atún",
+    "Metal",
+    "Manivela",
+    "Sardinas"
+   ],
+   "category": "objetos",
+   "difficulty": 2
+  },
+  {
+   "word": "TELÉFONO",
+   "forbidden": [
+    "Llamar",
+    "Celular",
+    "Pantalla",
+    "Móvil",
+    "Marcar",
+    "Contestar",
+    "Número"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "COMPUTADOR",
+   "forbidden": [
+    "Teclado",
+    "Mouse",
+    "Pantalla",
+    "Internet",
+    "Portátil",
+    "Windows",
+    "Trabajar"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "TELEVISOR",
+   "forbidden": [
+    "Pantalla",
+    "Canal",
+    "Control",
+    "Ver",
+    "Series",
+    "Sala",
+    "Programas"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "AUDÍFONOS",
+   "forbidden": [
+    "Oídos",
+    "Música",
+    "Cable",
+    "Bluetooth",
+    "Escuchar",
+    "Sonido",
+    "Orejas"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "CARGADOR",
+   "forbidden": [
+    "Batería",
+    "Enchufe",
+    "Cable",
+    "Celular",
+    "Energía",
+    "Pared",
+    "USB"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "CÁMARA",
+   "forbidden": [
+    "Foto",
+    "Lente",
+    "Imagen",
+    "Flash",
+    "Video",
+    "Tomar",
+    "Fotografía"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "DRON",
+   "forbidden": [
+    "Volar",
+    "Hélices",
+    "Control",
+    "Cámara",
+    "Aire",
+    "Zumbido",
+    "Teledirigido"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "IMPRESORA",
+   "forbidden": [
+    "Papel",
+    "Tinta",
+    "Documento",
+    "Hojas",
+    "Copia",
+    "Cartucho",
+    "Escáner"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "ROBOT",
+   "forbidden": [
+    "Máquina",
+    "Metal",
+    "Autómata",
+    "Programar",
+    "Futuro",
+    "Humanoide",
+    "Cyborg"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "BLUETOOTH",
+   "forbidden": [
+    "Inalámbrico",
+    "Conectar",
+    "Audífonos",
+    "Parlante",
+    "Dispositivos",
+    "Azul",
+    "Emparejar"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "BATERÍA",
+   "forbidden": [
+    "Cargar",
+    "Energía",
+    "Pila",
+    "Celular",
+    "Carga",
+    "Agotarse",
+    "Litio"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "PANTALLA",
+   "forbidden": [
+    "Ver",
+    "Imagen",
+    "Táctil",
+    "Celular",
+    "Televisor",
+    "Monitor",
+    "Resolución"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "TECLADO",
+   "forbidden": [
+    "Teclas",
+    "Escribir",
+    "Computador",
+    "Letras",
+    "Mouse",
+    "Dedos",
+    "Espacio"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "MOUSE",
+   "forbidden": [
+    "Ratón",
+    "Clic",
+    "Cursor",
+    "Computador",
+    "Flecha",
+    "Rueda",
+    "Pad"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "ROUTER",
+   "forbidden": [
+    "Wi-Fi",
+    "Internet",
+    "Señal",
+    "Cable",
+    "Antena",
+    "Conexión",
+    "Luces"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "CALCULADORA",
+   "forbidden": [
+    "Sumar",
+    "Números",
+    "Matemáticas",
+    "Operaciones",
+    "Teclas",
+    "Resultado",
+    "Dividir"
+   ],
+   "category": "tecnologia",
+   "difficulty": 1
+  },
+  {
+   "word": "SMARTWATCH",
+   "forbidden": [
+    "Reloj",
+    "Muñeca",
+    "Pasos",
+    "Notificaciones",
+    "Inteligente",
+    "Celular",
+    "Pulso"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "PARLANTE",
+   "forbidden": [
+    "Sonido",
+    "Música",
+    "Volumen",
+    "Bocina",
+    "Bluetooth",
+    "Bajo",
+    "Fiesta"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "MICRÓFONO",
+   "forbidden": [
+    "Voz",
+    "Cantar",
+    "Hablar",
+    "Sonido",
+    "Grabar",
+    "Karaoke",
+    "Cable"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "INTELIGENCIA ARTIFICIAL",
+   "forbidden": [
+    "Robot",
+    "Chat",
+    "Máquina",
+    "Aprender",
+    "Datos",
+    "ChatGPT",
+    "Algoritmo"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "GPS",
+   "forbidden": [
+    "Mapa",
+    "Ruta",
+    "Satélite",
+    "Ubicación",
+    "Dirección",
+    "Navegar",
+    "Carro"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "USB",
+   "forbidden": [
+    "Memoria",
+    "Puerto",
+    "Cable",
+    "Computador",
+    "Archivos",
+    "Pendrive",
+    "Conectar"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "LÁSER",
+   "forbidden": [
+    "Luz",
+    "Rayo",
+    "Puntero",
+    "Rojo",
+    "Gato",
+    "Cortar",
+    "Haz"
+   ],
+   "category": "tecnologia",
+   "difficulty": 2
+  },
+  {
+   "word": "VIDEOJUEGO",
+   "forbidden": [
+    "Jugar",
+    "Consola",
+    "Control",
+    "Pantalla",
+    "Personaje",
+    "Nivel",
+    "Partida"
+   ],
+   "category": "videojuegos",
+   "difficulty": 1
+  },
+  {
+   "word": "MINECRAFT",
+   "forbidden": [
+    "Cubos",
+    "Bloques",
+    "Creeper",
+    "Construir",
+    "Picar",
+    "Steve",
+    "Mundo"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "FORTNITE",
+   "forbidden": [
+    "Battle royale",
+    "Bailes",
+    "Construir",
+    "Isla",
+    "Skins",
+    "Disparar",
+    "Victoria"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "MARIO BROS",
+   "forbidden": [
+    "Fontanero",
+    "Bigote",
+    "Hongo",
+    "Princesa",
+    "Salto",
+    "Nintendo",
+    "Luigi"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "POKÉMON",
+   "forbidden": [
+    "Pikachu",
+    "Atrapar",
+    "Pokébola",
+    "Entrenador",
+    "Evolucionar",
+    "Ash",
+    "Monstruos"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "PAC-MAN",
+   "forbidden": [
+    "Fantasmas",
+    "Laberinto",
+    "Amarillo",
+    "Comer",
+    "Puntos",
+    "Arcade",
+    "Bolitas"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "TETRIS",
+   "forbidden": [
+    "Bloques",
+    "Piezas",
+    "Línea",
+    "Caer",
+    "Rotar",
+    "Rusia",
+    "Rompecabezas"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "CONSOLA",
+   "forbidden": [
+    "Videojuegos",
+    "Control",
+    "PlayStation",
+    "Xbox",
+    "Televisor",
+    "Jugar",
+    "Nintendo"
+   ],
+   "category": "videojuegos",
+   "difficulty": 1
+  },
+  {
+   "word": "JOYSTICK",
+   "forbidden": [
+    "Palanca",
+    "Mando",
+    "Botones",
+    "Control",
+    "Arcade",
+    "Mover",
+    "Videojuego"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "ARCADE",
+   "forbidden": [
+    "Monedas",
+    "Fichas",
+    "Máquina",
+    "Joystick",
+    "Salón",
+    "Retro",
+    "Récord"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "FIFA",
+   "forbidden": [
+    "Fútbol",
+    "Equipo",
+    "Ultimate",
+    "Consola",
+    "Partido",
+    "Cartas",
+    "Jugadores"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "ROBLOX",
+   "forbidden": [
+    "Avatar",
+    "Bloques",
+    "Robux",
+    "Servidor",
+    "Creador",
+    "Amigos",
+    "Obby"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "AMONG US",
+   "forbidden": [
+    "Impostor",
+    "Nave",
+    "Tripulante",
+    "Sospechoso",
+    "Rojo",
+    "Votar",
+    "Tareas"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "ZELDA",
+   "forbidden": [
+    "Link",
+    "Espada",
+    "Princesa",
+    "Hyrule",
+    "Triforce",
+    "Nintendo",
+    "Mazmorras"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "SONIC",
+   "forbidden": [
+    "Erizo",
+    "Velocidad",
+    "Azul",
+    "Anillos",
+    "Sega",
+    "Correr",
+    "Tails"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "ANGRY BIRDS",
+   "forbidden": [
+    "Pájaros",
+    "Cerdos",
+    "Resortera",
+    "Teléfono",
+    "Enojados",
+    "Rojo",
+    "Lanzar"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "CANDY CRUSH",
+   "forbidden": [
+    "Dulces",
+    "Combinar",
+    "Colores",
+    "Vidas",
+    "Nivel",
+    "Celular",
+    "Caramelos"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "GAMER",
+   "forbidden": [
+    "Videojuegos",
+    "Jugar",
+    "Consola",
+    "Silla",
+    "Audífonos",
+    "Horas",
+    "Streaming"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "NIVEL",
+   "forbidden": [
+    "Pasar",
+    "Jefe",
+    "Videojuego",
+    "Dificultad",
+    "Etapa",
+    "Subir",
+    "Experiencia"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "JEFE FINAL",
+   "forbidden": [
+    "Último",
+    "Derrotar",
+    "Videojuego",
+    "Nivel",
+    "Enemigo",
+    "Difícil",
+    "Batalla"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "SKIN",
+   "forbidden": [
+    "Personaje",
+    "Apariencia",
+    "Fortnite",
+    "Cambiar",
+    "Comprar",
+    "Cosmético",
+    "Disfraz"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "GAME OVER",
+   "forbidden": [
+    "Perder",
+    "Fin",
+    "Vidas",
+    "Pantalla",
+    "Reiniciar",
+    "Derrota",
+    "Videojuego"
+   ],
+   "category": "videojuegos",
+   "difficulty": 2
+  },
+  {
+   "word": "FÚTBOL",
+   "forbidden": [
+    "Balón",
+    "Gol",
+    "Cancha",
+    "Portero",
+    "Árbitro",
+    "Equipo",
+    "Mundial"
+   ],
+   "category": "deportes",
+   "difficulty": 1
+  },
+  {
+   "word": "BALONCESTO",
+   "forbidden": [
+    "Aro",
+    "Encestar",
+    "Cancha",
+    "NBA",
+    "Pelota",
+    "Canasta",
+    "Dribleo"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "TENIS",
+   "forbidden": [
+    "Raqueta",
+    "Wimbledon",
+    "Cancha",
+    "Arcilla",
+    "Tie break",
+    "Pelota",
+    "Federer"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "NATACIÓN",
+   "forbidden": [
+    "Piscina",
+    "Agua",
+    "Nadador",
+    "Traje de baño",
+    "Estilo libre",
+    "Gorro",
+    "Carril"
+   ],
+   "category": "deportes",
+   "difficulty": 1
+  },
+  {
+   "word": "BOXEO",
+   "forbidden": [
+    "Guantes",
+    "Ring",
+    "Golpes",
+    "Nocaut",
+    "Pelea",
+    "Round",
+    "Campeón"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "GOLF",
+   "forbidden": [
+    "Palo",
+    "Hoyo",
+    "Campo",
+    "Pelota",
+    "Green",
+    "Caddie",
+    "Bandera"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "VOLEIBOL",
+   "forbidden": [
+    "Red",
+    "Pelota",
+    "Saque",
+    "Playa",
+    "Remate",
+    "Set",
+    "Equipo"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "BÉISBOL",
+   "forbidden": [
+    "Bate",
+    "Pelota",
+    "Guante",
+    "Jonrón",
+    "Pitcher",
+    "Bases",
+    "Entrada"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "CICLISMO",
+   "forbidden": [
+    "Bicicleta",
+    "Pedalear",
+    "Casco",
+    "Tour de Francia",
+    "Ruta",
+    "Ruedas",
+    "Carrera"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "ATLETISMO",
+   "forbidden": [
+    "Correr",
+    "Pista",
+    "Maratón",
+    "Medalla",
+    "Saltos",
+    "Velocidad",
+    "Olimpiadas"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "GIMNASIA",
+   "forbidden": [
+    "Barra",
+    "Saltos",
+    "Acrobacia",
+    "Flexible",
+    "Cinta",
+    "Medalla",
+    "Olimpiadas"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "SURF",
+   "forbidden": [
+    "Olas",
+    "Tabla",
+    "Mar",
+    "Playa",
+    "Hawái",
+    "Equilibrio",
+    "Espuma"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "PATINAJE",
+   "forbidden": [
+    "Patines",
+    "Ruedas",
+    "Hielo",
+    "Pista",
+    "Deslizar",
+    "Casco",
+    "Cuatro"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "AJEDREZ",
+   "forbidden": [
+    "Tablero",
+    "Rey",
+    "Reina",
+    "Peón",
+    "Jaque mate",
+    "Torre",
+    "Piezas"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "YOGA",
+   "forbidden": [
+    "Postura",
+    "Meditar",
+    "Estirar",
+    "Respirar",
+    "Tapete",
+    "Flexibilidad",
+    "Relajación"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "ESQUÍ",
+   "forbidden": [
+    "Nieve",
+    "Montaña",
+    "Bastones",
+    "Pendiente",
+    "Invierno",
+    "Botas",
+    "Pista"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "MARATÓN",
+   "forbidden": [
+    "Correr",
+    "42 kilómetros",
+    "Carrera",
+    "Resistencia",
+    "Meta",
+    "Corredores",
+    "Largo"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "OLIMPIADAS",
+   "forbidden": [
+    "Medallas",
+    "Atletas",
+    "Juegos",
+    "Países",
+    "Antorcha",
+    "Cada cuatro años",
+    "Anillos"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "PORTERO",
+   "forbidden": [
+    "Arco",
+    "Guantes",
+    "Atajar",
+    "Gol",
+    "Penal",
+    "Manos",
+    "Barrera"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "PENAL",
+   "forbidden": [
+    "Gol",
+    "Portero",
+    "Patada",
+    "Árbitro",
+    "Once pasos",
+    "Falta",
+    "Tanda"
+   ],
+   "category": "deportes",
+   "difficulty": 2
+  },
+  {
+   "word": "ÁRBITRO",
+   "forbidden": [
+    "Pito",
+    "Tarjeta",
+    "Roja",
+    "Juez",
+    "Falta",
+    "Partido",
+    "Amarilla"
+   ],
+   "category": "deportes",
+   "difficulty": 1
+  },
+  {
+   "word": "MEDALLA",
+   "forbidden": [
+    "Oro",
+    "Plata",
+    "Bronce",
+    "Podio",
+    "Premio",
+    "Cuello",
+    "Ganar"
+   ],
+   "category": "deportes",
+   "difficulty": 1
+  },
+  {
+   "word": "PELÍCULA",
+   "forbidden": [
+    "Cine",
+    "Actores",
+    "Director",
+    "Escena",
+    "Palomitas",
+    "Pantalla",
+    "Estreno"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "CINE",
+   "forbidden": [
+    "Película",
+    "Butacas",
+    "Palomitas",
+    "Pantalla",
+    "Boletos",
+    "Sala",
+    "Proyector"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "SERIE",
+   "forbidden": [
+    "Capítulos",
+    "Temporada",
+    "Netflix",
+    "Maratón",
+    "Personajes",
+    "Televisión",
+    "Episodio"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "NETFLIX",
+   "forbidden": [
+    "Series",
+    "Películas",
+    "Streaming",
+    "Suscripción",
+    "Maratón",
+    "Rojo",
+    "Ver"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "DISNEY",
+   "forbidden": [
+    "Mickey",
+    "Princesas",
+    "Castillo",
+    "Animación",
+    "Parque",
+    "Orejas",
+    "Películas"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "PAYASO",
+   "forbidden": [
+    "Circo",
+    "Nariz roja",
+    "Maquillaje",
+    "Chiste",
+    "Globos",
+    "Zapatos grandes",
+    "Risa"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "CIRCO",
+   "forbidden": [
+    "Payaso",
+    "Carpa",
+    "Trapecio",
+    "Malabares",
+    "Leones",
+    "Función",
+    "Acróbata"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "MAGIA",
+   "forbidden": [
+    "Mago",
+    "Truco",
+    "Varita",
+    "Conejo",
+    "Sombrero",
+    "Ilusión",
+    "Hechizo"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "CONCIERTO",
+   "forbidden": [
+    "Cantante",
+    "Música",
+    "Estadio",
+    "Boletas",
+    "Escenario",
+    "Público",
+    "Banda"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "TEATRO",
+   "forbidden": [
+    "Obra",
+    "Actores",
+    "Escenario",
+    "Telón",
+    "Público",
+    "Butacas",
+    "Drama"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "CARNAVAL",
+   "forbidden": [
+    "Disfraz",
+    "Desfile",
+    "Máscara",
+    "Comparsa",
+    "Fiesta",
+    "Baile",
+    "Barranquilla"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "DOCUMENTAL",
+   "forbidden": [
+    "Real",
+    "Naturaleza",
+    "Película",
+    "Narrador",
+    "Información",
+    "Historia",
+    "Realidad"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "DIBUJOS ANIMADOS",
+   "forbidden": [
+    "Caricaturas",
+    "Niños",
+    "Televisión",
+    "Animación",
+    "Sábado",
+    "Colores",
+    "Personajes"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "SUPERHÉROE",
+   "forbidden": [
+    "Capa",
+    "Poderes",
+    "Villano",
+    "Salvar",
+    "Máscara",
+    "Marvel",
+    "Volar"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 1
+  },
+  {
+   "word": "MARVEL",
+   "forbidden": [
+    "Superhéroes",
+    "Avengers",
+    "Iron Man",
+    "Películas",
+    "Cómics",
+    "Thor",
+    "Disney"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "HARRY POTTER",
+   "forbidden": [
+    "Mago",
+    "Varita",
+    "Hogwarts",
+    "Escoba",
+    "Cicatriz",
+    "Voldemort",
+    "Gafas"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "STAR WARS",
+   "forbidden": [
+    "Galaxia",
+    "Jedi",
+    "Sable de luz",
+    "Darth Vader",
+    "Espacio",
+    "Fuerza",
+    "Yoda"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "TITANIC",
+   "forbidden": [
+    "Barco",
+    "Iceberg",
+    "Hundirse",
+    "Rose",
+    "Jack",
+    "Océano",
+    "Película"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "SHREK",
+   "forbidden": [
+    "Ogro",
+    "Verde",
+    "Pantano",
+    "Burro",
+    "Fiona",
+    "Princesa",
+    "Dragón"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "KARAOKE",
+   "forbidden": [
+    "Cantar",
+    "Micrófono",
+    "Letra",
+    "Canción",
+    "Fiesta",
+    "Pantalla",
+    "Desafinar"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "CÓMIC",
+   "forbidden": [
+    "Viñetas",
+    "Dibujos",
+    "Superhéroes",
+    "Historieta",
+    "Globos",
+    "Marvel",
+    "Papel"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "STREAMING",
+   "forbidden": [
+    "Transmitir",
+    "En vivo",
+    "Twitch",
+    "Plataforma",
+    "Directo",
+    "Internet",
+    "Series"
+   ],
+   "category": "entretenimiento",
+   "difficulty": 2
+  },
+  {
+   "word": "MÉDICO",
+   "forbidden": [
+    "Hospital",
+    "Enfermo",
+    "Bata",
+    "Estetoscopio",
+    "Salud",
+    "Consulta",
+    "Paciente"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "BOMBERO",
+   "forbidden": [
+    "Fuego",
+    "Manguera",
+    "Camión",
+    "Incendio",
+    "Casco",
+    "Rescate",
+    "Sirena"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "POLICÍA",
+   "forbidden": [
+    "Ley",
+    "Arrestar",
+    "Patrulla",
+    "Uniforme",
+    "Ladrón",
+    "Placa",
+    "Sirena"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "PROFESOR",
+   "forbidden": [
+    "Clase",
+    "Enseñar",
+    "Colegio",
+    "Estudiantes",
+    "Tablero",
+    "Tareas",
+    "Salón"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "COCINERO",
+   "forbidden": [
+    "Restaurante",
+    "Chef",
+    "Comida",
+    "Delantal",
+    "Sartén",
+    "Gorro",
+    "Fogón"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "PILOTO",
+   "forbidden": [
+    "Avión",
+    "Volar",
+    "Cabina",
+    "Aeropuerto",
+    "Uniforme",
+    "Aterrizar",
+    "Aerolínea"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "ABOGADO",
+   "forbidden": [
+    "Juicio",
+    "Leyes",
+    "Juez",
+    "Defender",
+    "Corbata",
+    "Tribunal",
+    "Demanda"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "ARQUITECTO",
+   "forbidden": [
+    "Planos",
+    "Edificio",
+    "Diseño",
+    "Casas",
+    "Construcción",
+    "Maqueta",
+    "Dibujar"
+   ],
+   "category": "profesiones",
+   "difficulty": 2
+  },
+  {
+   "word": "INGENIERO",
+   "forbidden": [
+    "Puentes",
+    "Construir",
+    "Cálculos",
+    "Diseñar",
+    "Universidad",
+    "Máquinas",
+    "Casco"
+   ],
+   "category": "profesiones",
+   "difficulty": 2
+  },
+  {
+   "word": "PELUQUERO",
+   "forbidden": [
+    "Cabello",
+    "Tijeras",
+    "Cortar",
+    "Salón",
+    "Secador",
+    "Peinar",
+    "Barba"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "MESERO",
+   "forbidden": [
+    "Restaurante",
+    "Pedido",
+    "Comida",
+    "Propina",
+    "Bandeja",
+    "Mesa",
+    "Cuenta"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "CARTERO",
+   "forbidden": [
+    "Cartas",
+    "Correo",
+    "Paquetes",
+    "Entregar",
+    "Buzón",
+    "Uniforme",
+    "Bicicleta"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "CONDUCTOR",
+   "forbidden": [
+    "Carro",
+    "Manejar",
+    "Licencia",
+    "Volante",
+    "Bus",
+    "Taxi",
+    "Camino"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "ASTRONAUTA",
+   "forbidden": [
+    "Espacio",
+    "Luna",
+    "Cohete",
+    "NASA",
+    "Traje",
+    "Planeta",
+    "Gravedad"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "DETECTIVE",
+   "forbidden": [
+    "Misterio",
+    "Pistas",
+    "Investigar",
+    "Lupa",
+    "Crimen",
+    "Sherlock",
+    "Caso"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "CIENTÍFICO",
+   "forbidden": [
+    "Laboratorio",
+    "Experimento",
+    "Bata",
+    "Investigar",
+    "Descubrir",
+    "Probeta",
+    "Teoría"
+   ],
+   "category": "profesiones",
+   "difficulty": 2
+  },
+  {
+   "word": "FOTÓGRAFO",
+   "forbidden": [
+    "Cámara",
+    "Fotos",
+    "Flash",
+    "Retrato",
+    "Lente",
+    "Imágenes",
+    "Boda"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "DENTISTA",
+   "forbidden": [
+    "Muelas",
+    "Dientes",
+    "Caries",
+    "Boca",
+    "Consultorio",
+    "Taladro",
+    "Anestesia"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "CAMPESINO",
+   "forbidden": [
+    "Finca",
+    "Cultivar",
+    "Tierra",
+    "Cosecha",
+    "Sembrar",
+    "Ruana",
+    "Campo"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "ELECTRICISTA",
+   "forbidden": [
+    "Cables",
+    "Corriente",
+    "Luz",
+    "Instalar",
+    "Enchufes",
+    "Cortocircuito",
+    "Voltaje"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "PLOMERO",
+   "forbidden": [
+    "Tuberías",
+    "Agua",
+    "Fugas",
+    "Llave",
+    "Baño",
+    "Destapar",
+    "Grifo"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "MECÁNICO",
+   "forbidden": [
+    "Carro",
+    "Taller",
+    "Motor",
+    "Reparar",
+    "Llantas",
+    "Aceite",
+    "Herramientas"
+   ],
+   "category": "profesiones",
+   "difficulty": 1
+  },
+  {
+   "word": "COLOMBIA",
+   "forbidden": [
+    "Bogotá",
+    "Café",
+    "Medellín",
+    "Sudamérica",
+    "Bandera",
+    "Cartagena",
+    "Arepa"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "MÉXICO",
+   "forbidden": [
+    "Tacos",
+    "Sombrero",
+    "Tequila",
+    "Mariachi",
+    "Capital",
+    "Azteca",
+    "Norteamérica"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "ARGENTINA",
+   "forbidden": [
+    "Messi",
+    "Buenos Aires",
+    "Tango",
+    "Asado",
+    "Maradona",
+    "Gauchos",
+    "Sudamérica"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "BRASIL",
+   "forbidden": [
+    "Samba",
+    "Carnaval",
+    "Río de Janeiro",
+    "Portugués",
+    "Amazonas",
+    "Pelé",
+    "Selva"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "ESPAÑA",
+   "forbidden": [
+    "Madrid",
+    "Flamenco",
+    "Paella",
+    "Europa",
+    "Toros",
+    "Barcelona",
+    "Siesta"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "ESTADOS UNIDOS",
+   "forbidden": [
+    "Norteamérica",
+    "Washington",
+    "Nueva York",
+    "Dólar",
+    "Inglés",
+    "Estrellas",
+    "Hollywood"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "JAPÓN",
+   "forbidden": [
+    "Tokio",
+    "Samurái",
+    "Anime",
+    "Sushi",
+    "Asia",
+    "Sol naciente",
+    "Kimono"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "CHINA",
+   "forbidden": [
+    "Muralla",
+    "Asia",
+    "Pekín",
+    "Dragón",
+    "Pandas",
+    "Mandarín",
+    "Arroz"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "ITALIA",
+   "forbidden": [
+    "Pizza",
+    "Roma",
+    "Pasta",
+    "Europa",
+    "Venecia",
+    "Coliseo",
+    "Botas"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "FRANCIA",
+   "forbidden": [
+    "París",
+    "Torre Eiffel",
+    "Baguette",
+    "Europa",
+    "Vino",
+    "Francés",
+    "Queso"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "EGIPTO",
+   "forbidden": [
+    "Pirámides",
+    "Faraones",
+    "Nilo",
+    "Momias",
+    "Desierto",
+    "Esfinge",
+    "África"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "PLAYA",
+   "forbidden": [
+    "Arena",
+    "Mar",
+    "Sol",
+    "Olas",
+    "Bañador",
+    "Vacaciones",
+    "Sombrilla"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "MONTAÑA",
+   "forbidden": [
+    "Alta",
+    "Cima",
+    "Escalar",
+    "Nieve",
+    "Roca",
+    "Pico",
+    "Subir"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "DESIERTO",
+   "forbidden": [
+    "Arena",
+    "Seco",
+    "Camello",
+    "Calor",
+    "Dunas",
+    "Oasis",
+    "Cactus"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "SELVA",
+   "forbidden": [
+    "Árboles",
+    "Tropical",
+    "Animales",
+    "Lluvia",
+    "Amazonas",
+    "Verde",
+    "Mono"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "AEROPUERTO",
+   "forbidden": [
+    "Aviones",
+    "Maletas",
+    "Vuelo",
+    "Pasaporte",
+    "Terminal",
+    "Aterrizar",
+    "Abordar"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "HOSPITAL",
+   "forbidden": [
+    "Médicos",
+    "Enfermos",
+    "Urgencias",
+    "Camilla",
+    "Enfermera",
+    "Cirugía",
+    "Salud"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "BIBLIOTECA",
+   "forbidden": [
+    "Libros",
+    "Silencio",
+    "Leer",
+    "Prestar",
+    "Estantes",
+    "Préstamo",
+    "Estudiar"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "SUPERMERCADO",
+   "forbidden": [
+    "Compras",
+    "Carrito",
+    "Comida",
+    "Cajero",
+    "Productos",
+    "Pasillos",
+    "Mercar"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "MUSEO",
+   "forbidden": [
+    "Arte",
+    "Exposición",
+    "Cuadros",
+    "Historia",
+    "Visitar",
+    "Esculturas",
+    "Guía"
+   ],
+   "category": "lugares",
+   "difficulty": 2
+  },
+  {
+   "word": "ESTADIO",
+   "forbidden": [
+    "Fútbol",
+    "Hinchas",
+    "Cancha",
+    "Gradas",
+    "Partido",
+    "Gol",
+    "Equipo"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "PARQUE",
+   "forbidden": [
+    "Columpios",
+    "Árboles",
+    "Niños",
+    "Banca",
+    "Jugar",
+    "Pasto",
+    "Perros"
+   ],
+   "category": "lugares",
+   "difficulty": 1
+  },
+  {
+   "word": "AVIÓN",
+   "forbidden": [
+    "Volar",
+    "Alas",
+    "Aeropuerto",
+    "Piloto",
+    "Pasajeros",
+    "Cielo",
+    "Turbina"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "CARRO",
+   "forbidden": [
+    "Conducir",
+    "Llantas",
+    "Volante",
+    "Motor",
+    "Gasolina",
+    "Placa",
+    "Calle"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "BICICLETA",
+   "forbidden": [
+    "Pedales",
+    "Ruedas",
+    "Cadena",
+    "Manubrio",
+    "Pedalear",
+    "Casco",
+    "Montar"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "MOTO",
+   "forbidden": [
+    "Casco",
+    "Dos ruedas",
+    "Acelerar",
+    "Escape",
+    "Velocidad",
+    "Manubrio",
+    "Gasolina"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "BUS",
+   "forbidden": [
+    "Pasajeros",
+    "Conductor",
+    "Ruta",
+    "Terminal",
+    "Paradero",
+    "Pasaje",
+    "Asientos"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "TREN",
+   "forbidden": [
+    "Rieles",
+    "Estación",
+    "Vagones",
+    "Locomotora",
+    "Pasajeros",
+    "Vías",
+    "Pito"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "TAXI",
+   "forbidden": [
+    "Amarillo",
+    "Conductor",
+    "Pasajero",
+    "Carrera",
+    "Calle",
+    "Pagar",
+    "Uber"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "BARCO",
+   "forbidden": [
+    "Mar",
+    "Agua",
+    "Navegar",
+    "Capitán",
+    "Puerto",
+    "Ancla",
+    "Zarpar"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "HELICÓPTERO",
+   "forbidden": [
+    "Hélices",
+    "Volar",
+    "Aterrizar",
+    "Aire",
+    "Rescate",
+    "Piloto",
+    "Aspas"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "CAMIÓN",
+   "forbidden": [
+    "Carga",
+    "Llantas",
+    "Transportar",
+    "Conductor",
+    "Carretera",
+    "Remolque",
+    "Pesado"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "AMBULANCIA",
+   "forbidden": [
+    "Sirena",
+    "Hospital",
+    "Emergencia",
+    "Paciente",
+    "Camilla",
+    "Urgente",
+    "Paramédico"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "SUBMARINO",
+   "forbidden": [
+    "Agua",
+    "Mar",
+    "Sumergirse",
+    "Periscopio",
+    "Profundidad",
+    "Barco",
+    "Amarillo"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "PATINETA",
+   "forbidden": [
+    "Ruedas",
+    "Tabla",
+    "Trucos",
+    "Skate",
+    "Parque",
+    "Equilibrio",
+    "Rampa"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "CABLE AÉREO",
+   "forbidden": [
+    "Montaña",
+    "Cabina",
+    "Colgar",
+    "Teleférico",
+    "Altura",
+    "Subir",
+    "Medellín"
+   ],
+   "category": "transporte",
+   "difficulty": 2
+  },
+  {
+   "word": "METRO",
+   "forbidden": [
+    "Subterráneo",
+    "Estación",
+    "Vagón",
+    "Tren",
+    "Túnel",
+    "Tarjeta",
+    "Ciudad"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "CRUCERO",
+   "forbidden": [
+    "Barco",
+    "Vacaciones",
+    "Mar",
+    "Cabina",
+    "Piscina",
+    "Gigante",
+    "Turistas"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "COHETE",
+   "forbidden": [
+    "Espacio",
+    "Luna",
+    "Despegar",
+    "NASA",
+    "Astronauta",
+    "Fuego",
+    "Cuenta regresiva"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "GLOBO AEROSTÁTICO",
+   "forbidden": [
+    "Aire caliente",
+    "Cesta",
+    "Volar",
+    "Cielo",
+    "Gigante",
+    "Colores",
+    "Altura"
+   ],
+   "category": "transporte",
+   "difficulty": 2
+  },
+  {
+   "word": "TRACTOR",
+   "forbidden": [
+    "Campo",
+    "Finca",
+    "Arar",
+    "Llantas grandes",
+    "Tierra",
+    "Agricultor",
+    "Cultivo"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "GRÚA",
+   "forbidden": [
+    "Levantar",
+    "Carga",
+    "Brazo",
+    "Construcción",
+    "Cable",
+    "Peso",
+    "Gancho"
+   ],
+   "category": "transporte",
+   "difficulty": 2
+  },
+  {
+   "word": "VOLQUETA",
+   "forbidden": [
+    "Arena",
+    "Camión",
+    "Carga",
+    "Escombros",
+    "Tolva",
+    "Construcción",
+    "Descargar"
+   ],
+   "category": "transporte",
+   "difficulty": 2
+  },
+  {
+   "word": "BOTE",
+   "forbidden": [
+    "Remos",
+    "Lago",
+    "Agua",
+    "Pescar",
+    "Navegar",
+    "Pequeño",
+    "Orilla"
+   ],
+   "category": "transporte",
+   "difficulty": 1
+  },
+  {
+   "word": "REFRIGERADOR",
+   "forbidden": [
+    "Frío",
+    "Nevera",
+    "Comida",
+    "Hielo",
+    "Cocina",
+    "Congelar",
+    "Puerta"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "LAVADORA",
+   "forbidden": [
+    "Ropa",
+    "Lavar",
+    "Jabón",
+    "Agua",
+    "Centrifugar",
+    "Sucia",
+    "Secar"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "MICROONDAS",
+   "forbidden": [
+    "Calentar",
+    "Comida",
+    "Cocina",
+    "Minutos",
+    "Plato",
+    "Descongelar",
+    "Palomitas"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "ESTUFA",
+   "forbidden": [
+    "Cocina",
+    "Fuego",
+    "Hornilla",
+    "Gas",
+    "Olla",
+    "Sartén",
+    "Calentar"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "LICUADORA",
+   "forbidden": [
+    "Jugo",
+    "Batir",
+    "Cuchillas",
+    "Frutas",
+    "Vaso",
+    "Mezclar",
+    "Smoothie"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "ASPIRADORA",
+   "forbidden": [
+    "Polvo",
+    "Limpiar",
+    "Alfombra",
+    "Succionar",
+    "Piso",
+    "Barrer",
+    "Ruido"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "PLANCHA",
+   "forbidden": [
+    "Ropa",
+    "Arrugas",
+    "Camisa",
+    "Vapor",
+    "Caliente",
+    "Alisar",
+    "Tabla"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "VENTILADOR",
+   "forbidden": [
+    "Aire",
+    "Calor",
+    "Aspas",
+    "Fresco",
+    "Girar",
+    "Viento",
+    "Techo"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "SOFÁ",
+   "forbidden": [
+    "Sala",
+    "Sentarse",
+    "Cojines",
+    "Televisión",
+    "Cómodo",
+    "Acostarse",
+    "Cuero"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "CAMA",
+   "forbidden": [
+    "Dormir",
+    "Colchón",
+    "Sábanas",
+    "Almohada",
+    "Noche",
+    "Cobija",
+    "Cuarto"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "MESA",
+   "forbidden": [
+    "Comer",
+    "Sillas",
+    "Patas",
+    "Madera",
+    "Comedor",
+    "Plato",
+    "Cuatro"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "SILLA",
+   "forbidden": [
+    "Sentarse",
+    "Patas",
+    "Respaldo",
+    "Mesa",
+    "Asiento",
+    "Comedor",
+    "Madera"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "ESCOBA",
+   "forbidden": [
+    "Barrer",
+    "Basura",
+    "Palo",
+    "Limpiar",
+    "Piso",
+    "Bruja",
+    "Cerdas"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "TOALLA",
+   "forbidden": [
+    "Secar",
+    "Baño",
+    "Mojado",
+    "Ducha",
+    "Playa",
+    "Algodón",
+    "Cuerpo"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "DUCHA",
+   "forbidden": [
+    "Agua",
+    "Bañarse",
+    "Baño",
+    "Regadera",
+    "Jabón",
+    "Caliente",
+    "Champú"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "INODORO",
+   "forbidden": [
+    "Baño",
+    "Sanitario",
+    "Taza",
+    "Cisterna",
+    "Papel",
+    "Tapa",
+    "Cadena"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "CORTINA",
+   "forbidden": [
+    "Ventana",
+    "Tela",
+    "Cerrar",
+    "Luz",
+    "Colgar",
+    "Abrir",
+    "Sala"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "ARMARIO",
+   "forbidden": [
+    "Ropa",
+    "Ganchos",
+    "Puertas",
+    "Cuarto",
+    "Guardar",
+    "Closet",
+    "Madera"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "CALENTADOR",
+   "forbidden": [
+    "Agua",
+    "Ducha",
+    "Caliente",
+    "Gas",
+    "Temperatura",
+    "Baño",
+    "Tanque"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "AIRE ACONDICIONADO",
+   "forbidden": [
+    "Frío",
+    "Temperatura",
+    "Control",
+    "Fresco",
+    "Calor",
+    "Habitación",
+    "Ventana"
+   ],
+   "category": "hogar",
+   "difficulty": 2
+  },
+  {
+   "word": "OLLA",
+   "forbidden": [
+    "Cocina",
+    "Sopa",
+    "Tapa",
+    "Hervir",
+    "Estufa",
+    "Metal",
+    "Arroz"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "SARTÉN",
+   "forbidden": [
+    "Freír",
+    "Aceite",
+    "Cocina",
+    "Huevo",
+    "Mango",
+    "Estufa",
+    "Antiadherente"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "HORNO",
+   "forbidden": [
+    "Hornear",
+    "Pan",
+    "Caliente",
+    "Pizza",
+    "Cocina",
+    "Torta",
+    "Temperatura"
+   ],
+   "category": "hogar",
+   "difficulty": 1
+  },
+  {
+   "word": "CORAZÓN",
+   "forbidden": [
+    "Latidos",
+    "Sangre",
+    "Amor",
+    "Pecho",
+    "Pulso",
+    "Órgano",
+    "Bombear"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "CEREBRO",
+   "forbidden": [
+    "Pensar",
+    "Cabeza",
+    "Neuronas",
+    "Inteligente",
+    "Memoria",
+    "Órgano",
+    "Mente"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "PULMONES",
+   "forbidden": [
+    "Respirar",
+    "Aire",
+    "Pecho",
+    "Oxígeno",
+    "Inhalar",
+    "Órgano",
+    "Fumar"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "ESTÓMAGO",
+   "forbidden": [
+    "Comida",
+    "Digerir",
+    "Hambre",
+    "Barriga",
+    "Órgano",
+    "Ácido",
+    "Panza"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "OJOS",
+   "forbidden": [
+    "Ver",
+    "Pestañas",
+    "Mirar",
+    "Pupila",
+    "Párpados",
+    "Color",
+    "Cara"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "NARIZ",
+   "forbidden": [
+    "Oler",
+    "Respirar",
+    "Cara",
+    "Fosas",
+    "Mocos",
+    "Estornudar",
+    "Olfato"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "BOCA",
+   "forbidden": [
+    "Labios",
+    "Dientes",
+    "Lengua",
+    "Hablar",
+    "Comer",
+    "Cara",
+    "Besar"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "OREJAS",
+   "forbidden": [
+    "Oír",
+    "Escuchar",
+    "Aretes",
+    "Sordo",
+    "Sonido",
+    "Cabeza",
+    "Oídos"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "LENGUA",
+   "forbidden": [
+    "Boca",
+    "Saborear",
+    "Hablar",
+    "Papilas",
+    "Idioma",
+    "Rosada",
+    "Sacar"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "DIENTES",
+   "forbidden": [
+    "Boca",
+    "Masticar",
+    "Cepillar",
+    "Blancos",
+    "Dentista",
+    "Muelas",
+    "Caries"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "MANOS",
+   "forbidden": [
+    "Dedos",
+    "Palma",
+    "Agarrar",
+    "Aplaudir",
+    "Muñeca",
+    "Lavar",
+    "Guantes"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "PIES",
+   "forbidden": [
+    "Zapatos",
+    "Caminar",
+    "Dedos",
+    "Talón",
+    "Plantas",
+    "Medias",
+    "Uñas"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "RODILLA",
+   "forbidden": [
+    "Pierna",
+    "Doblar",
+    "Articulación",
+    "Caer",
+    "Hueso",
+    "Raspar",
+    "Piernas"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "CODO",
+   "forbidden": [
+    "Brazo",
+    "Doblar",
+    "Articulación",
+    "Golpe",
+    "Hueso",
+    "Manga",
+    "Apoyar"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "CABELLO",
+   "forbidden": [
+    "Cabeza",
+    "Peinar",
+    "Champú",
+    "Largo",
+    "Rubio",
+    "Cortar",
+    "Peluquería"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "UÑAS",
+   "forbidden": [
+    "Dedos",
+    "Cortar",
+    "Esmalte",
+    "Manicura",
+    "Morder",
+    "Largas",
+    "Manos"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "ESQUELETO",
+   "forbidden": [
+    "Huesos",
+    "Calavera",
+    "Cuerpo",
+    "Interior",
+    "Muerto",
+    "Halloween",
+    "Costillas"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "MÚSCULOS",
+   "forbidden": [
+    "Fuerza",
+    "Gimnasio",
+    "Bíceps",
+    "Cuerpo",
+    "Pesas",
+    "Fuertes",
+    "Ejercicio"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "HUESO",
+   "forbidden": [
+    "Esqueleto",
+    "Fractura",
+    "Perro",
+    "Duro",
+    "Calcio",
+    "Romper",
+    "Cuerpo"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "SANGRE",
+   "forbidden": [
+    "Roja",
+    "Venas",
+    "Herida",
+    "Corazón",
+    "Donar",
+    "Líquido",
+    "Cuerpo"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "PIEL",
+   "forbidden": [
+    "Cuerpo",
+    "Tocar",
+    "Cubierta",
+    "Sol",
+    "Cicatriz",
+    "Suave",
+    "Arrugas"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "ESPALDA",
+   "forbidden": [
+    "Columna",
+    "Cuerpo",
+    "Dolor",
+    "Cargar",
+    "Atrás",
+    "Pecho",
+    "Mochila"
+   ],
+   "category": "cuerpo",
+   "difficulty": 1
+  },
+  {
+   "word": "LLUVIA",
+   "forbidden": [
+    "Agua",
+    "Nubes",
+    "Paraguas",
+    "Mojar",
+    "Tormenta",
+    "Gotas",
+    "Cielo"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "SOL",
+   "forbidden": [
+    "Estrella",
+    "Calor",
+    "Día",
+    "Luz",
+    "Amarillo",
+    "Cielo",
+    "Brillar"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "LUNA",
+   "forbidden": [
+    "Noche",
+    "Satélite",
+    "Cielo",
+    "Llena",
+    "Estrellas",
+    "Redonda",
+    "Plata"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "ESTRELLA",
+   "forbidden": [
+    "Cielo",
+    "Noche",
+    "Brillar",
+    "Galaxia",
+    "Fugaz",
+    "Deseo",
+    "Luz"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "ARCOÍRIS",
+   "forbidden": [
+    "Colores",
+    "Lluvia",
+    "Cielo",
+    "Siete",
+    "Sol",
+    "Tormenta",
+    "Olla de oro"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "RAYO",
+   "forbidden": [
+    "Tormenta",
+    "Trueno",
+    "Luz",
+    "Electricidad",
+    "Cielo",
+    "Relámpago",
+    "Nube"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "VOLCÁN",
+   "forbidden": [
+    "Lava",
+    "Erupción",
+    "Montaña",
+    "Ceniza",
+    "Fuego",
+    "Magma",
+    "Cráter"
+   ],
+   "category": "naturaleza",
+   "difficulty": 2
+  },
+  {
+   "word": "TERREMOTO",
+   "forbidden": [
+    "Temblor",
+    "Tierra",
+    "Sismo",
+    "Edificios",
+    "Escala Richter",
+    "Sacudir",
+    "Placas"
+   ],
+   "category": "naturaleza",
+   "difficulty": 2
+  },
+  {
+   "word": "HURACÁN",
+   "forbidden": [
+    "Viento",
+    "Tormenta",
+    "Caribe",
+    "Vientos fuertes",
+    "Ojo",
+    "Destrucción",
+    "Tropical"
+   ],
+   "category": "naturaleza",
+   "difficulty": 2
+  },
+  {
+   "word": "NIEVE",
+   "forbidden": [
+    "Blanca",
+    "Frío",
+    "Invierno",
+    "Copos",
+    "Muñeco",
+    "Esquiar",
+    "Hielo"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "VIENTO",
+   "forbidden": [
+    "Aire",
+    "Soplar",
+    "Brisa",
+    "Hojas",
+    "Aspas",
+    "Fuerte",
+    "Cometa"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "NUBE",
+   "forbidden": [
+    "Cielo",
+    "Lluvia",
+    "Blanca",
+    "Algodón",
+    "Vapor",
+    "Gris",
+    "Flotar"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "OCÉANO",
+   "forbidden": [
+    "Mar",
+    "Agua",
+    "Olas",
+    "Profundo",
+    "Azul",
+    "Peces",
+    "Barcos"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "RÍO",
+   "forbidden": [
+    "Agua",
+    "Corriente",
+    "Desembocar",
+    "Orilla",
+    "Puente",
+    "Pescar",
+    "Cauce"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "LAGO",
+   "forbidden": [
+    "Agua",
+    "Orilla",
+    "Pescar",
+    "Bote",
+    "Montaña",
+    "Cisne",
+    "Tranquilo"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "CASCADA",
+   "forbidden": [
+    "Agua",
+    "Caída",
+    "Río",
+    "Montaña",
+    "Salto",
+    "Espuma",
+    "Altura"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "BOSQUE",
+   "forbidden": [
+    "Árboles",
+    "Hojas",
+    "Animales",
+    "Verde",
+    "Caminar",
+    "Madera",
+    "Lobo"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "ÁRBOL",
+   "forbidden": [
+    "Hojas",
+    "Tronco",
+    "Raíces",
+    "Ramas",
+    "Sombra",
+    "Madera",
+    "Verde"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "FLOR",
+   "forbidden": [
+    "Pétalos",
+    "Jardín",
+    "Rosa",
+    "Perfume",
+    "Planta",
+    "Primavera",
+    "Abeja"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "CACTUS",
+   "forbidden": [
+    "Espinas",
+    "Desierto",
+    "Planta",
+    "Pinchar",
+    "Verde",
+    "Seco",
+    "Agua"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "ARENA",
+   "forbidden": [
+    "Playa",
+    "Desierto",
+    "Granos",
+    "Castillo",
+    "Dunas",
+    "Amarilla",
+    "Reloj"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "NIEBLA",
+   "forbidden": [
+    "Neblina",
+    "Visibilidad",
+    "Nubes",
+    "Frío",
+    "Mañana",
+    "Blanca",
+    "Borrosa"
+   ],
+   "category": "naturaleza",
+   "difficulty": 1
+  },
+  {
+   "word": "GUITARRA",
+   "forbidden": [
+    "Cuerdas",
+    "Tocar",
+    "Acordes",
+    "Rock",
+    "Madera",
+    "Rasgar",
+    "Instrumento"
+   ],
+   "category": "musica",
+   "difficulty": 1
+  },
+  {
+   "word": "PIANO",
+   "forbidden": [
+    "Teclas",
+    "Blancas",
+    "Negras",
+    "Tocar",
+    "Pedal",
+    "Cola",
+    "Instrumento"
+   ],
+   "category": "musica",
+   "difficulty": 1
+  },
+  {
+   "word": "TAMBOR",
+   "forbidden": [
+    "Redoble",
+    "Baquetas",
+    "Golpear",
+    "Ritmo",
+    "Percusión",
+    "Piel",
+    "Banda"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "VIOLÍN",
+   "forbidden": [
+    "Cuerdas",
+    "Arco",
+    "Orquesta",
+    "Clásica",
+    "Madera",
+    "Hombro",
+    "Instrumento"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "FLAUTA",
+   "forbidden": [
+    "Soplar",
+    "Dulce",
+    "Agujeros",
+    "Viento",
+    "Instrumento",
+    "Boca",
+    "Colegio"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "TROMPETA",
+   "forbidden": [
+    "Soplar",
+    "Metal",
+    "Jazz",
+    "Dorada",
+    "Instrumento",
+    "Viento",
+    "Boquilla"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "SAXOFÓN",
+   "forbidden": [
+    "Jazz",
+    "Curvo",
+    "Lengüeta",
+    "Dorado",
+    "Músico",
+    "Soplar",
+    "Orquesta"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "ACORDEÓN",
+   "forbidden": [
+    "Vallenato",
+    "Fuelle",
+    "Teclas",
+    "Botones",
+    "Instrumento",
+    "Colombia",
+    "Tocar"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "ARPA",
+   "forbidden": [
+    "Cuerdas",
+    "Ángel",
+    "Paraguay",
+    "Dorada",
+    "Instrumento",
+    "Pulsar",
+    "Grande"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "MARIACHI",
+   "forbidden": [
+    "México",
+    "Sombrero",
+    "Trompeta",
+    "Guitarrón",
+    "Cantar",
+    "Charro",
+    "Serenata"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "VALLENATO",
+   "forbidden": [
+    "Acordeón",
+    "Colombia",
+    "Caja",
+    "Guacharaca",
+    "Cantar",
+    "Costa",
+    "Música"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "SALSA",
+   "forbidden": [
+    "Bailar",
+    "Cali",
+    "Pareja",
+    "Ritmo",
+    "Latina",
+    "Música",
+    "Cadera"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "REGGAETÓN",
+   "forbidden": [
+    "Perreo",
+    "Ritmo",
+    "Bad Bunny",
+    "Latino",
+    "Baile",
+    "Letra",
+    "Urbano"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "ROCK",
+   "forbidden": [
+    "Guitarra",
+    "Eléctrica",
+    "Banda",
+    "Música",
+    "Concierto",
+    "Rebeldía",
+    "Ruido"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "ÓPERA",
+   "forbidden": [
+    "Cantar",
+    "Soprano",
+    "Teatro",
+    "Voz",
+    "Clásica",
+    "Orquesta",
+    "Drama"
+   ],
+   "category": "musica",
+   "difficulty": 3
+  },
+  {
+   "word": "DISCOTECA",
+   "forbidden": [
+    "Bailar",
+    "Música",
+    "Luces",
+    "Fiesta",
+    "DJ",
+    "Noche",
+    "Rumba"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "DJ",
+   "forbidden": [
+    "Música",
+    "Mezclar",
+    "Discos",
+    "Fiesta",
+    "Consola",
+    "Bailar",
+    "Platos"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "CORO",
+   "forbidden": [
+    "Cantar",
+    "Voces",
+    "Iglesia",
+    "Grupo",
+    "Armonía",
+    "Dirigir",
+    "Colegio"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "CANCIÓN",
+   "forbidden": [
+    "Letra",
+    "Música",
+    "Cantar",
+    "Melodía",
+    "Estribillo",
+    "Radio",
+    "Artista"
+   ],
+   "category": "musica",
+   "difficulty": 1
+  },
+  {
+   "word": "ORQUESTA",
+   "forbidden": [
+    "Director",
+    "Sinfonía",
+    "Instrumentos",
+    "Violines",
+    "Clásica",
+    "Músicos",
+    "Teatro"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "HIMNO",
+   "forbidden": [
+    "Patria",
+    "Cantar",
+    "Bandera",
+    "Nacional",
+    "Estadio",
+    "Letra",
+    "País"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "ARMÓNICA",
+   "forbidden": [
+    "Soplar",
+    "Boca",
+    "Blues",
+    "Instrumento",
+    "Pequeña",
+    "Vaquero",
+    "Notas"
+   ],
+   "category": "musica",
+   "difficulty": 2
+  },
+  {
+   "word": "CAMISA",
+   "forbidden": [
+    "Botones",
+    "Cuello",
+    "Manga",
+    "Tela",
+    "Planchar",
+    "Formal",
+    "Corbata"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "PANTALÓN",
+   "forbidden": [
+    "Piernas",
+    "Bolsillos",
+    "Cinturón",
+    "Jean",
+    "Cremallera",
+    "Tela",
+    "Ropa"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "JEAN",
+   "forbidden": [
+    "Pantalón",
+    "Azul",
+    "Denim",
+    "Bolsillos",
+    "Vaquero",
+    "Tela",
+    "Cremallera"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "FALDA",
+   "forbidden": [
+    "Mujer",
+    "Vestido",
+    "Cintura",
+    "Piernas",
+    "Corta",
+    "Tela",
+    "Escocesa"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "VESTIDO",
+   "forbidden": [
+    "Fiesta",
+    "Mujer",
+    "Falda",
+    "Elegante",
+    "Boda",
+    "Largo",
+    "Tela"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "ZAPATOS",
+   "forbidden": [
+    "Pies",
+    "Cordones",
+    "Suela",
+    "Caminar",
+    "Par",
+    "Tacón",
+    "Cuero"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "ZAPATILLAS",
+   "forbidden": [
+    "Deportivos",
+    "Cordones",
+    "Pies",
+    "Correr",
+    "Suela",
+    "Marca",
+    "Nike"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "BUFANDA",
+   "forbidden": [
+    "Cuello",
+    "Frío",
+    "Lana",
+    "Invierno",
+    "Tejida",
+    "Abrigo",
+    "Envolver"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "GUANTES",
+   "forbidden": [
+    "Manos",
+    "Dedos",
+    "Frío",
+    "Invierno",
+    "Lana",
+    "Par",
+    "Boxeo"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "GORRA",
+   "forbidden": [
+    "Cabeza",
+    "Visera",
+    "Sol",
+    "Béisbol",
+    "Sombrero",
+    "Cubrir",
+    "Deportiva"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "CINTURÓN",
+   "forbidden": [
+    "Pantalón",
+    "Hebilla",
+    "Pretina",
+    "Cuero",
+    "Sujetar",
+    "Correa",
+    "Agujeros"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "CORBATA",
+   "forbidden": [
+    "Cuello",
+    "Formal",
+    "Nudo",
+    "Traje",
+    "Camisa",
+    "Oficina",
+    "Seda"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "MEDIAS",
+   "forbidden": [
+    "Pies",
+    "Calcetines",
+    "Par",
+    "Zapatos",
+    "Pierna",
+    "Perdida",
+    "Algodón"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "CHAQUETA",
+   "forbidden": [
+    "Abrigo",
+    "Frío",
+    "Cierre",
+    "Mangas",
+    "Cuero",
+    "Invierno",
+    "Lluvia"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "PIJAMA",
+   "forbidden": [
+    "Dormir",
+    "Cama",
+    "Noche",
+    "Cómoda",
+    "Ropa",
+    "Camiseta",
+    "Pantuflas"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "TRAJE DE BAÑO",
+   "forbidden": [
+    "Playa",
+    "Piscina",
+    "Nadar",
+    "Bikini",
+    "Mojado",
+    "Verano",
+    "Sol"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "COLLAR",
+   "forbidden": [
+    "Cuello",
+    "Joya",
+    "Cadena",
+    "Perlas",
+    "Dije",
+    "Oro",
+    "Plata"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "ANILLO",
+   "forbidden": [
+    "Dedo",
+    "Boda",
+    "Oro",
+    "Joya",
+    "Compromiso",
+    "Diamante",
+    "Matrimonio"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "ARETES",
+   "forbidden": [
+    "Orejas",
+    "Joyas",
+    "Colgar",
+    "Perforar",
+    "Pares",
+    "Oro",
+    "Aros"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "CAPA",
+   "forbidden": [
+    "Superhéroe",
+    "Espalda",
+    "Volar",
+    "Tela",
+    "Roja",
+    "Mago",
+    "Cuello"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "DISFRAZ",
+   "forbidden": [
+    "Halloween",
+    "Fiesta",
+    "Máscara",
+    "Ropa",
+    "Personaje",
+    "Carnaval",
+    "Niños"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "UNIFORME",
+   "forbidden": [
+    "Colegio",
+    "Trabajo",
+    "Ropa",
+    "Igual",
+    "Policía",
+    "Empleados",
+    "Escuela"
+   ],
+   "category": "ropa",
+   "difficulty": 1
+  },
+  {
+   "word": "COLEGIO",
+   "forbidden": [
+    "Estudiantes",
+    "Profesor",
+    "Clase",
+    "Uniforme",
+    "Recreo",
+    "Tareas",
+    "Niños"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "UNIVERSIDAD",
+   "forbidden": [
+    "Carrera",
+    "Estudiar",
+    "Título",
+    "Campus",
+    "Profesores",
+    "Semestre",
+    "Grado"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "CUADERNO",
+   "forbidden": [
+    "Hojas",
+    "Escribir",
+    "Apuntes",
+    "Lápiz",
+    "Espiral",
+    "Clase",
+    "Rayas"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "LÁPIZ",
+   "forbidden": [
+    "Escribir",
+    "Grafito",
+    "Borrador",
+    "Punta",
+    "Dibujar",
+    "Madera",
+    "Sacapuntas"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "BORRADOR",
+   "forbidden": [
+    "Borrar",
+    "Lápiz",
+    "Errores",
+    "Goma",
+    "Tablero",
+    "Pizarra",
+    "Quitar"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "SACAPUNTAS",
+   "forbidden": [
+    "Lápiz",
+    "Mina",
+    "Afilar",
+    "Cuchilla",
+    "Viruta",
+    "Escritorio",
+    "Cuaderno"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "REGLA",
+   "forbidden": [
+    "Medir",
+    "Línea",
+    "Centímetros",
+    "Recta",
+    "Plástico",
+    "Dibujar",
+    "Escuela"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "TABLERO",
+   "forbidden": [
+    "Marcador",
+    "Profesor",
+    "Escribir",
+    "Clase",
+    "Borrador",
+    "Tiza",
+    "Salón"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "EXAMEN",
+   "forbidden": [
+    "Prueba",
+    "Nota",
+    "Estudiar",
+    "Preguntas",
+    "Calificación",
+    "Nervios",
+    "Aprobar"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "TAREA",
+   "forbidden": [
+    "Casa",
+    "Deberes",
+    "Profesor",
+    "Entregar",
+    "Escuela",
+    "Trabajo",
+    "Cuaderno"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "RECREO",
+   "forbidden": [
+    "Descanso",
+    "Patio",
+    "Jugar",
+    "Colegio",
+    "Lonchera",
+    "Timbre",
+    "Niños"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "LONCHERA",
+   "forbidden": [
+    "Almuerzo",
+    "Colegio",
+    "Comida",
+    "Niños",
+    "Recreo",
+    "Mochila",
+    "Merienda"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "GRADUACIÓN",
+   "forbidden": [
+    "Birrete",
+    "Toga",
+    "Título",
+    "Ceremonia",
+    "Diploma",
+    "Fiesta",
+    "Universidad"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "DIPLOMA",
+   "forbidden": [
+    "Título",
+    "Graduación",
+    "Papel",
+    "Estudios",
+    "Certificado",
+    "Enmarcar",
+    "Universidad"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "LIBRO",
+   "forbidden": [
+    "Páginas",
+    "Leer",
+    "Autor",
+    "Historia",
+    "Biblioteca",
+    "Portada",
+    "Capítulos"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "DICCIONARIO",
+   "forbidden": [
+    "Palabras",
+    "Significado",
+    "Buscar",
+    "Definición",
+    "Letras",
+    "Idioma",
+    "Libro"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "MAPA",
+   "forbidden": [
+    "Países",
+    "Ubicación",
+    "Guía",
+    "Ciudades",
+    "Carreteras",
+    "Mundo",
+    "Papel"
+   ],
+   "category": "escuela",
+   "difficulty": 1
+  },
+  {
+   "word": "GLOBO TERRÁQUEO",
+   "forbidden": [
+    "Mundo",
+    "Planeta",
+    "Esfera",
+    "Países",
+    "Mapa",
+    "Girar",
+    "Geografía"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "MATEMÁTICAS",
+   "forbidden": [
+    "Números",
+    "Sumar",
+    "Restar",
+    "Multiplicar",
+    "Problemas",
+    "Ecuaciones",
+    "Clase"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "HISTORIA",
+   "forbidden": [
+    "Pasado",
+    "Libro",
+    "Fechas",
+    "Guerras",
+    "Antiguo",
+    "Clase",
+    "Épocas"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "BIOLOGÍA",
+   "forbidden": [
+    "Células",
+    "Vida",
+    "Seres vivos",
+    "Ciencia",
+    "Plantas",
+    "Animales",
+    "Cuerpo"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "QUÍMICA",
+   "forbidden": [
+    "Elementos",
+    "Laboratorio",
+    "Tabla periódica",
+    "Mezclas",
+    "Átomos",
+    "Fórmulas",
+    "Ciencia"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "FÍSICA",
+   "forbidden": [
+    "Gravedad",
+    "Fuerza",
+    "Energía",
+    "Ciencia",
+    "Newton",
+    "Movimiento",
+    "Fórmulas"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "GEOGRAFÍA",
+   "forbidden": [
+    "Mapas",
+    "Países",
+    "Continentes",
+    "Mundo",
+    "Ríos",
+    "Montañas",
+    "Clase"
+   ],
+   "category": "escuela",
+   "difficulty": 2
+  },
+  {
+   "word": "INTERNET",
+   "forbidden": [
+    "Wi-Fi",
+    "Navegador",
+    "Página",
+    "Conexión",
+    "Red",
+    "Google",
+    "Computador"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "WHATSAPP",
+   "forbidden": [
+    "Mensajes",
+    "Chat",
+    "Verde",
+    "Grupos",
+    "Celular",
+    "Llamadas",
+    "Stickers"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "INSTAGRAM",
+   "forbidden": [
+    "Fotos",
+    "Historias",
+    "Seguidores",
+    "Reels",
+    "Likes",
+    "Filtros",
+    "Red social"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "FACEBOOK",
+   "forbidden": [
+    "Red social",
+    "Amigos",
+    "Muro",
+    "Zuckerberg",
+    "Perfil",
+    "Publicaciones",
+    "Azul"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "TIKTOK",
+   "forbidden": [
+    "Videos",
+    "Bailes",
+    "Viral",
+    "Cortos",
+    "Algoritmo",
+    "Para ti",
+    "Música"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "YOUTUBE",
+   "forbidden": [
+    "Videos",
+    "Canal",
+    "Suscribirse",
+    "Creador",
+    "Ver",
+    "Rojo",
+    "Plataforma"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "GOOGLE",
+   "forbidden": [
+    "Buscador",
+    "Buscar",
+    "Internet",
+    "Respuestas",
+    "Navegador",
+    "Gmail",
+    "Mapas"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "CORREO ELECTRÓNICO",
+   "forbidden": [
+    "Mensaje",
+    "Enviar",
+    "Bandeja",
+    "Arroba",
+    "Gmail",
+    "Adjuntar",
+    "Spam"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "CONTRASEÑA",
+   "forbidden": [
+    "Clave",
+    "Secreta",
+    "Cuenta",
+    "Entrar",
+    "Olvidar",
+    "Caracteres",
+    "Seguridad"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "MEME",
+   "forbidden": [
+    "Chiste",
+    "Imagen",
+    "Viral",
+    "Gracioso",
+    "Redes",
+    "Foto",
+    "Texto"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "INFLUENCER",
+   "forbidden": [
+    "Seguidores",
+    "Redes sociales",
+    "Marcas",
+    "Publicidad",
+    "Famoso",
+    "Instagram",
+    "Patrocinio"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "SELFIE",
+   "forbidden": [
+    "Foto",
+    "Celular",
+    "Cara",
+    "Autorretrato",
+    "Brazo",
+    "Cámara",
+    "Sonreír"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "EMOJI",
+   "forbidden": [
+    "Carita",
+    "Dibujo",
+    "Chat",
+    "Mensaje",
+    "Emoción",
+    "Teclado",
+    "Amarillo"
+   ],
+   "category": "internet",
+   "difficulty": 1
+  },
+  {
+   "word": "HASHTAG",
+   "forbidden": [
+    "Numeral",
+    "Etiqueta",
+    "Twitter",
+    "Tendencia",
+    "Redes",
+    "Símbolo",
+    "Viral"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "VIRAL",
+   "forbidden": [
+    "Redes",
+    "Compartir",
+    "Famoso",
+    "Video",
+    "Tendencia",
+    "Millones",
+    "Rápido"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "LIKE",
+   "forbidden": [
+    "Pulgar",
+    "Gustar",
+    "Corazón",
+    "Redes",
+    "Foto",
+    "Me gusta",
+    "Aprobar"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "STREAMER",
+   "forbidden": [
+    "Twitch",
+    "Transmitir",
+    "Videojuegos",
+    "Directo",
+    "Seguidores",
+    "Cámara",
+    "Chat"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "BLOG",
+   "forbidden": [
+    "Escribir",
+    "Artículos",
+    "Internet",
+    "Publicar",
+    "Autor",
+    "Página",
+    "Bitácora"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "VIDEOLLAMADA",
+   "forbidden": [
+    "Cámara",
+    "Zoom",
+    "Reunión",
+    "Pantalla",
+    "Cara",
+    "Llamar",
+    "Internet"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "DESCARGA",
+   "forbidden": [
+    "Archivo",
+    "Internet",
+    "Bajar",
+    "Aplicación",
+    "Barra",
+    "Gigas",
+    "Instalar"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "APLICACIÓN",
+   "forbidden": [
+    "Celular",
+    "Descargar",
+    "Tienda",
+    "Icono",
+    "Instalar",
+    "Móvil",
+    "Play Store"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "PERFIL",
+   "forbidden": [
+    "Foto",
+    "Cuenta",
+    "Nombre",
+    "Redes",
+    "Datos",
+    "Usuario",
+    "Biografía"
+   ],
+   "category": "internet",
+   "difficulty": 2
+  },
+  {
+   "word": "ALEGRÍA",
+   "forbidden": [
+    "Feliz",
+    "Sonreír",
+    "Contento",
+    "Fiesta",
+    "Reír",
+    "Emoción",
+    "Felicidad"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "TRISTEZA",
+   "forbidden": [
+    "Llorar",
+    "Lágrimas",
+    "Pena",
+    "Melancolía",
+    "Soledad",
+    "Pañuelo",
+    "Nostalgia"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "ENOJO",
+   "forbidden": [
+    "Rabia",
+    "Gritar",
+    "Furia",
+    "Molesto",
+    "Ira",
+    "Cara roja",
+    "Explotar"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "MIEDO",
+   "forbidden": [
+    "Susto",
+    "Terror",
+    "Asustar",
+    "Pánico",
+    "Temblar",
+    "Oscuridad",
+    "Pesadilla"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "SORPRESA",
+   "forbidden": [
+    "Inesperado",
+    "Cumpleaños",
+    "Regalo",
+    "Asombro",
+    "Gritar",
+    "Fiesta",
+    "Boquiabierto"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "VERGÜENZA",
+   "forbidden": [
+    "Rojo",
+    "Pena",
+    "Ridículo",
+    "Esconderse",
+    "Sonrojar",
+    "Público",
+    "Mejillas"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "AMOR",
+   "forbidden": [
+    "Corazón",
+    "Pareja",
+    "Cariño",
+    "Besos",
+    "San Valentín",
+    "Rosas",
+    "Novios"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "CELOS",
+   "forbidden": [
+    "Envidia",
+    "Pareja",
+    "Posesivo",
+    "Desconfianza",
+    "Verde",
+    "Sospechar",
+    "Rival"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "ENVIDIA",
+   "forbidden": [
+    "Celos",
+    "Verde",
+    "Querer",
+    "Ajeno",
+    "Rival",
+    "Codicia",
+    "Tener"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "NERVIOS",
+   "forbidden": [
+    "Temblar",
+    "Examen",
+    "Sudor",
+    "Ansiedad",
+    "Estómago",
+    "Presentación",
+    "Inquietud"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "ABURRIMIENTO",
+   "forbidden": [
+    "Bostezar",
+    "Nada que hacer",
+    "Tedio",
+    "Sueño",
+    "Clase",
+    "Reloj",
+    "Lento"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "SUEÑO",
+   "forbidden": [
+    "Dormir",
+    "Cama",
+    "Bostezo",
+    "Cansancio",
+    "Noche",
+    "Almohada",
+    "Siesta"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "ESPERANZA",
+   "forbidden": [
+    "Futuro",
+    "Ilusión",
+    "Fe",
+    "Confiar",
+    "Mañana",
+    "Deseo",
+    "Luz"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "ORGULLO",
+   "forbidden": [
+    "Satisfecho",
+    "Hijo",
+    "Logro",
+    "Pecho",
+    "Presumir",
+    "Dignidad",
+    "Éxito"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "NOSTALGIA",
+   "forbidden": [
+    "Recuerdos",
+    "Pasado",
+    "Extrañar",
+    "Infancia",
+    "Melancolía",
+    "Fotos",
+    "Antes"
+   ],
+   "category": "emociones",
+   "difficulty": 3
+  },
+  {
+   "word": "SOLEDAD",
+   "forbidden": [
+    "Solo",
+    "Nadie",
+    "Compañía",
+    "Aislado",
+    "Vacío",
+    "Silencio",
+    "Tristeza"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "CURIOSIDAD",
+   "forbidden": [
+    "Gato",
+    "Preguntar",
+    "Saber",
+    "Descubrir",
+    "Interés",
+    "Investigar",
+    "Mirar"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "PEREZA",
+   "forbidden": [
+    "Flojo",
+    "Cama",
+    "No hacer nada",
+    "Domingo",
+    "Cansancio",
+    "Dormir",
+    "Sofá"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "RISA",
+   "forbidden": [
+    "Carcajada",
+    "Jajaja",
+    "Sonido",
+    "Boca",
+    "Alegría",
+    "Contagiosa",
+    "Humor"
+   ],
+   "category": "emociones",
+   "difficulty": 1
+  },
+  {
+   "word": "LLANTO",
+   "forbidden": [
+    "Bebé",
+    "Gritos",
+    "Pañuelo",
+    "Pena",
+    "Sollozos",
+    "Desconsuelo",
+    "Rabieta"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "CARIÑO",
+   "forbidden": [
+    "Abrazo",
+    "Afecto",
+    "Amor",
+    "Mimos",
+    "Ternura",
+    "Besos",
+    "Querer"
+   ],
+   "category": "emociones",
+   "difficulty": 2
+  },
+  {
+   "word": "GRATITUD",
+   "forbidden": [
+    "Gracias",
+    "Agradecer",
+    "Favor",
+    "Aprecio",
+    "Reconocer",
+    "Dar",
+    "Gesto"
+   ],
+   "category": "emociones",
+   "difficulty": 3
+  },
+  {
+   "word": "CORRER",
+   "forbidden": [
+    "Rápido",
+    "Piernas",
+    "Maratón",
+    "Velocidad",
+    "Trotar",
+    "Carrera",
+    "Zapatillas"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "SALTAR",
+   "forbidden": [
+    "Brincar",
+    "Piernas",
+    "Aire",
+    "Cuerda",
+    "Alto",
+    "Rebotar",
+    "Caer"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "BAILAR",
+   "forbidden": [
+    "Música",
+    "Pareja",
+    "Ritmo",
+    "Pies",
+    "Fiesta",
+    "Moverse",
+    "Discoteca"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "COCINAR",
+   "forbidden": [
+    "Receta",
+    "Estufa",
+    "Ingredientes",
+    "Chef",
+    "Comida",
+    "Olla",
+    "Fuego"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "DORMIR",
+   "forbidden": [
+    "Cama",
+    "Noche",
+    "Sueño",
+    "Almohada",
+    "Soñar",
+    "Descansar",
+    "Pijama"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "LEER",
+   "forbidden": [
+    "Libro",
+    "Páginas",
+    "Palabras",
+    "Ojos",
+    "Historia",
+    "Letras",
+    "Biblioteca"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "ESCRIBIR",
+   "forbidden": [
+    "Lápiz",
+    "Papel",
+    "Letras",
+    "Teclado",
+    "Palabras",
+    "Mano",
+    "Carta"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "NADAR",
+   "forbidden": [
+    "Agua",
+    "Piscina",
+    "Brazos",
+    "Mar",
+    "Flotar",
+    "Traje de baño",
+    "Brazadas"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "CANTAR",
+   "forbidden": [
+    "Voz",
+    "Canción",
+    "Música",
+    "Micrófono",
+    "Letra",
+    "Notas",
+    "Karaoke"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "LLORAR",
+   "forbidden": [
+    "Lágrimas",
+    "Mejillas",
+    "Ojos",
+    "Tristeza",
+    "Desahogarse",
+    "Gimotear",
+    "Moquear"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "REÍR",
+   "forbidden": [
+    "Chiste",
+    "Gracioso",
+    "Comedia",
+    "Diversión",
+    "Payaso",
+    "Cosquillas",
+    "Broma"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "ABRAZAR",
+   "forbidden": [
+    "Brazos",
+    "Cariño",
+    "Cuerpo",
+    "Apretar",
+    "Afecto",
+    "Querer",
+    "Saludo"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "BESAR",
+   "forbidden": [
+    "Labios",
+    "Beso",
+    "Boca",
+    "Pareja",
+    "Cariño",
+    "Amor",
+    "Mejilla"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "PELEAR",
+   "forbidden": [
+    "Golpes",
+    "Discutir",
+    "Puños",
+    "Enojo",
+    "Boxeo",
+    "Gritos",
+    "Hermanos"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "MANEJAR",
+   "forbidden": [
+    "Carro",
+    "Volante",
+    "Licencia",
+    "Conducir",
+    "Calle",
+    "Pedal",
+    "Cinturón"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "COMPRAR",
+   "forbidden": [
+    "Tienda",
+    "Dinero",
+    "Pagar",
+    "Precio",
+    "Mercado",
+    "Producto",
+    "Caja"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "VENDER",
+   "forbidden": [
+    "Dinero",
+    "Precio",
+    "Cliente",
+    "Tienda",
+    "Comprar",
+    "Negocio",
+    "Ofrecer"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "BUCEAR",
+   "forbidden": [
+    "Mar",
+    "Tanque",
+    "Oxígeno",
+    "Profundidad",
+    "Aletas",
+    "Agua",
+    "Máscara"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "ESCALAR",
+   "forbidden": [
+    "Montaña",
+    "Subir",
+    "Cuerda",
+    "Roca",
+    "Altura",
+    "Agarrarse",
+    "Cima"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "PINTAR",
+   "forbidden": [
+    "Pincel",
+    "Colores",
+    "Pared",
+    "Cuadro",
+    "Brocha",
+    "Lienzo",
+    "Artista"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "DIBUJAR",
+   "forbidden": [
+    "Lápiz",
+    "Papel",
+    "Trazos",
+    "Arte",
+    "Colores",
+    "Garabato",
+    "Hoja"
+   ],
+   "category": "acciones",
+   "difficulty": 1
+  },
+  {
+   "word": "BOSTEZAR",
+   "forbidden": [
+    "Sueño",
+    "Boca",
+    "Cansancio",
+    "Abrir",
+    "Aburrimiento",
+    "Contagioso",
+    "Dormir"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "ESTORNUDAR",
+   "forbidden": [
+    "Nariz",
+    "Gripe",
+    "Achís",
+    "Alergia",
+    "Pañuelo",
+    "Resfriado",
+    "Polvo"
+   ],
+   "category": "acciones",
+   "difficulty": 2
+  },
+  {
+   "word": "GRAVEDAD",
+   "forbidden": [
+    "Newton",
+    "Manzana",
+    "Caer",
+    "Planeta",
+    "Fuerza",
+    "Tierra",
+    "Atraer"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "DINOSAURIO",
+   "forbidden": [
+    "Extinto",
+    "Jurásico",
+    "Fósil",
+    "Reptil",
+    "Gigante",
+    "Meteorito",
+    "Rex"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "PIRÁMIDE",
+   "forbidden": [
+    "Egipto",
+    "Faraón",
+    "Triángulo",
+    "Antigua",
+    "Tumba",
+    "Piedra",
+    "Desierto"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "CASTILLO",
+   "forbidden": [
+    "Rey",
+    "Reina",
+    "Torres",
+    "Medieval",
+    "Princesa",
+    "Foso",
+    "Piedra"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "PIRATA",
+   "forbidden": [
+    "Barco",
+    "Tesoro",
+    "Parche",
+    "Loro",
+    "Mapa",
+    "Bandera negra",
+    "Mar"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "VAMPIRO",
+   "forbidden": [
+    "Sangre",
+    "Colmillos",
+    "Drácula",
+    "Noche",
+    "Murciélago",
+    "Ataúd",
+    "Halloween"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "FANTASMA",
+   "forbidden": [
+    "Susto",
+    "Sábana",
+    "Muerto",
+    "Halloween",
+    "Casa embrujada",
+    "Asustar",
+    "Espíritu"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "DRAGÓN",
+   "forbidden": [
+    "Fuego",
+    "Alas",
+    "Escamas",
+    "Caballero",
+    "Fantasía",
+    "Volar",
+    "Monstruo"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "SIRENA",
+   "forbidden": [
+    "Mar",
+    "Cola",
+    "Mitad",
+    "Cantar",
+    "Pez",
+    "Mujer",
+    "Marinera"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "UNICORNIO",
+   "forbidden": [
+    "Cuerno",
+    "Caballo",
+    "Fantasía",
+    "Arcoíris",
+    "Blanco",
+    "Mágico",
+    "Mito"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "SISTEMA SOLAR",
+   "forbidden": [
+    "Planetas",
+    "Sol",
+    "Órbita",
+    "Júpiter",
+    "Tierra",
+    "Espacio",
+    "Galaxia"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "PLANETA",
+   "forbidden": [
+    "Marte",
+    "Redondo",
+    "Mundo",
+    "Saturno",
+    "Habitable",
+    "Esfera",
+    "Gravedad"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "GALAXIA",
+   "forbidden": [
+    "Estrellas",
+    "Vía Láctea",
+    "Espacio",
+    "Universo",
+    "Espiral",
+    "Telescopio",
+    "Planetas"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "TELESCOPIO",
+   "forbidden": [
+    "Estrellas",
+    "Ver",
+    "Lente",
+    "Espacio",
+    "Astrónomo",
+    "Lejos",
+    "Observar"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "BRÚJULA",
+   "forbidden": [
+    "Norte",
+    "Dirección",
+    "Aguja",
+    "Orientarse",
+    "Imán",
+    "Mapa",
+    "Perderse"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "TESORO",
+   "forbidden": [
+    "Cofre",
+    "Oro",
+    "Pirata",
+    "Mapa",
+    "Joyas",
+    "Enterrado",
+    "Isla"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "LABERINTO",
+   "forbidden": [
+    "Perderse",
+    "Salida",
+    "Caminos",
+    "Minotauro",
+    "Paredes",
+    "Complicado",
+    "Pasillos"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "NAVIDAD",
+   "forbidden": [
+    "Árbol",
+    "Regalos",
+    "Santa",
+    "Diciembre",
+    "Pesebre",
+    "Natilla",
+    "Villancicos"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "HALLOWEEN",
+   "forbidden": [
+    "Calabaza",
+    "Disfraz",
+    "Dulces",
+    "Susto",
+    "Octubre",
+    "Brujas",
+    "Truco o trato"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "CUMPLEAÑOS",
+   "forbidden": [
+    "Torta",
+    "Velas",
+    "Regalos",
+    "Fiesta",
+    "Edad",
+    "Soplar",
+    "Celebración"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "BODA",
+   "forbidden": [
+    "Novios",
+    "Anillo",
+    "Vestido blanco",
+    "Iglesia",
+    "Casarse",
+    "Fiesta",
+    "Altar"
+   ],
+   "category": "cultura",
+   "difficulty": 1
+  },
+  {
+   "word": "FUEGOS ARTIFICIALES",
+   "forbidden": [
+    "Pólvora",
+    "Noche",
+    "Año nuevo",
+    "Cielo",
+    "Explosión",
+    "Colores",
+    "Luces"
+   ],
+   "category": "cultura",
+   "difficulty": 2
+  },
+  {
+   "word": "ALBERT EINSTEIN",
+   "forbidden": [
+    "Relatividad",
+    "Científico",
+    "Física",
+    "Pelo blanco",
+    "Genio",
+    "Alemania",
+    "Fórmula"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "LIONEL MESSI",
+   "forbidden": [
+    "Argentina",
+    "Barcelona",
+    "Goles",
+    "Zurdo",
+    "Mundial",
+    "Pulga",
+    "Balón de Oro"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "SHAKIRA",
+   "forbidden": [
+    "Cantante",
+    "Colombia",
+    "Caderas",
+    "Barranquilla",
+    "Waka Waka",
+    "Rubia",
+    "Bailar"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "GABRIEL GARCÍA MÁRQUEZ",
+   "forbidden": [
+    "Gabo",
+    "Cien años de soledad",
+    "Escritor",
+    "Nobel",
+    "Colombia",
+    "Macondo",
+    "Realismo mágico"
+   ],
+   "category": "personajes",
+   "difficulty": 3
+  },
+  {
+   "word": "CRISTÓBAL COLÓN",
+   "forbidden": [
+    "América",
+    "Descubrir",
+    "Carabelas",
+    "1492",
+    "Navegante",
+    "España",
+    "Barcos"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "SIMÓN BOLÍVAR",
+   "forbidden": [
+    "Libertador",
+    "Venezuela",
+    "Independencia",
+    "Caballo",
+    "Colombia",
+    "Estatua",
+    "Héroe"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "LEONARDO DA VINCI",
+   "forbidden": [
+    "Mona Lisa",
+    "Inventor",
+    "Pintor",
+    "Renacimiento",
+    "Italiano",
+    "Cuadros",
+    "Genio"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "FRIDA KAHLO",
+   "forbidden": [
+    "Pintora",
+    "Cejas",
+    "México",
+    "Autorretratos",
+    "Flores",
+    "Diego Rivera",
+    "Coyoacán"
+   ],
+   "category": "personajes",
+   "difficulty": 3
+  },
+  {
+   "word": "PELÉ",
+   "forbidden": [
+    "Brasil",
+    "Fútbol",
+    "Rey",
+    "Tres mundiales",
+    "Goles",
+    "Camiseta",
+    "Santos"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "DIEGO MARADONA",
+   "forbidden": [
+    "Argentina",
+    "Mano de Dios",
+    "Napoli",
+    "Diez",
+    "Boca Juniors",
+    "Pelusa",
+    "Fútbol"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "CHARLIE CHAPLIN",
+   "forbidden": [
+    "Cine mudo",
+    "Bigote",
+    "Bastón",
+    "Sombrero",
+    "Vagabundo",
+    "Película",
+    "Comedia"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "MICHAEL JACKSON",
+   "forbidden": [
+    "Moonwalk",
+    "Rey del pop",
+    "Guante",
+    "Thriller",
+    "Cantante",
+    "Baile",
+    "Sombrero"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "ELVIS PRESLEY",
+   "forbidden": [
+    "Rock",
+    "Rey",
+    "Cantante",
+    "Caderas",
+    "Memphis",
+    "Peinado",
+    "Guitarra"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "CLEOPATRA",
+   "forbidden": [
+    "Egipto",
+    "Reina",
+    "Faraona",
+    "Serpiente",
+    "Antigua",
+    "Nilo",
+    "César"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "NAPOLEÓN",
+   "forbidden": [
+    "Francia",
+    "Emperador",
+    "Sombrero",
+    "Baja estatura",
+    "Waterloo",
+    "Ejército",
+    "Guerra"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "MOZART",
+   "forbidden": [
+    "Compositor",
+    "Piano",
+    "Niño prodigio",
+    "Austria",
+    "Clásica",
+    "Sinfonías",
+    "Peluca"
+   ],
+   "category": "personajes",
+   "difficulty": 3
+  },
+  {
+   "word": "BEETHOVEN",
+   "forbidden": [
+    "Compositor",
+    "Sordo",
+    "Piano",
+    "Sinfonía",
+    "Alemán",
+    "Clásica",
+    "Quinta"
+   ],
+   "category": "personajes",
+   "difficulty": 3
+  },
+  {
+   "word": "SHERLOCK HOLMES",
+   "forbidden": [
+    "Detective",
+    "Lupa",
+    "Londres",
+    "Watson",
+    "Pipa",
+    "Misterio",
+    "Gorra"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "SANTA CLAUS",
+   "forbidden": [
+    "Navidad",
+    "Regalos",
+    "Trineo",
+    "Barba",
+    "Rojo",
+    "Reno",
+    "Polo Norte"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "SUPERMAN",
+   "forbidden": [
+    "Capa",
+    "Volar",
+    "Kriptonita",
+    "Clark Kent",
+    "Superhéroe",
+    "Krypton",
+    "Fuerza"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "BATMAN",
+   "forbidden": [
+    "Murciélago",
+    "Gotham",
+    "Capa",
+    "Joker",
+    "Superhéroe",
+    "Bruce Wayne",
+    "Máscara"
+   ],
+   "category": "personajes",
+   "difficulty": 1
+  },
+  {
+   "word": "ISAAC NEWTON",
+   "forbidden": [
+    "Gravedad",
+    "Manzana",
+    "Física",
+    "Inglés",
+    "Científico",
+    "Leyes",
+    "Peluca"
+   ],
+   "category": "personajes",
+   "difficulty": 2
+  },
+  {
+   "word": "ENCHUFE",
+   "forbidden": [
+    "Corriente",
+    "Pared",
+    "Cable",
+    "Electricidad",
+    "Clavijas",
+    "Conectar",
+    "Tomacorriente"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "BISAGRA",
+   "forbidden": [
+    "Puerta",
+    "Giro",
+    "Abrir",
+    "Metal",
+    "Ventana",
+    "Tornillo",
+    "Chirriar"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "TORNILLO",
+   "forbidden": [
+    "Herramienta",
+    "Rosca",
+    "Metal",
+    "Madera",
+    "Apretar",
+    "Tuerca",
+    "Ajustar"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "TUERCA",
+   "forbidden": [
+    "Tornillo",
+    "Metal",
+    "Apretar",
+    "Llave",
+    "Rosca",
+    "Hexagonal",
+    "Mecánica"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "CLIP",
+   "forbidden": [
+    "Papel",
+    "Sujetar",
+    "Oficina",
+    "Metal",
+    "Documentos",
+    "Alambre",
+    "Papelería"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "GRAPADORA",
+   "forbidden": [
+    "Grapas",
+    "Papel",
+    "Oficina",
+    "Unir",
+    "Presionar",
+    "Hojas",
+    "Metal"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "BOTÓN",
+   "forbidden": [
+    "Presionar",
+    "Camisa",
+    "Ojal",
+    "Hilo",
+    "Timbre",
+    "Apretar",
+    "Redondo"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "CREMALLERA",
+   "forbidden": [
+    "Cierre",
+    "Dientes",
+    "Subir",
+    "Pantalón",
+    "Abrir",
+    "Cerrar",
+    "Chaqueta"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "VELCRO",
+   "forbidden": [
+    "Pegar",
+    "Zapatos",
+    "Adherir",
+    "Rasgar",
+    "Ganchos",
+    "Cierre",
+    "Tira"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "IMÁN",
+   "forbidden": [
+    "Metal",
+    "Nevera",
+    "Atraer",
+    "Polos",
+    "Magnético",
+    "Pegar",
+    "Hierro"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "PEGAMENTO",
+   "forbidden": [
+    "Pegar",
+    "Unir",
+    "Adhesivo",
+    "Papel",
+    "Manualidades",
+    "Tubo",
+    "Secar"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "CINTA ADHESIVA",
+   "forbidden": [
+    "Pegar",
+    "Rollo",
+    "Transparente",
+    "Papel",
+    "Empaque",
+    "Cortar",
+    "Pegajosa"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "GANCHO",
+   "forbidden": [
+    "Colgar",
+    "Ropa",
+    "Metal",
+    "Sujetar",
+    "Armario",
+    "Curvo",
+    "Alambre"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "ALFILER",
+   "forbidden": [
+    "Punta",
+    "Coser",
+    "Pinchar",
+    "Aguja",
+    "Ropa",
+    "Metal",
+    "Cabeza"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "AGUJA",
+   "forbidden": [
+    "Coser",
+    "Hilo",
+    "Pinchar",
+    "Punta",
+    "Ojal",
+    "Inyección",
+    "Costura"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "HILO",
+   "forbidden": [
+    "Coser",
+    "Aguja",
+    "Tela",
+    "Carrete",
+    "Costura",
+    "Delgado",
+    "Lana"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "TAPÓN",
+   "forbidden": [
+    "Botella",
+    "Cerrar",
+    "Lavamanos",
+    "Corcho",
+    "Tapar",
+    "Agua",
+    "Plástico"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "EMBUDO",
+   "forbidden": [
+    "Líquido",
+    "Verter",
+    "Cono",
+    "Botella",
+    "Aceite",
+    "Agujero",
+    "Cocina"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "COLADOR",
+   "forbidden": [
+    "Pasta",
+    "Agujeros",
+    "Escurrir",
+    "Agua",
+    "Cocina",
+    "Té",
+    "Malla"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "RALLADOR",
+   "forbidden": [
+    "Queso",
+    "Cocina",
+    "Zanahoria",
+    "Agujeros",
+    "Cortar",
+    "Metal",
+    "Rayar"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "DESTORNILLADOR",
+   "forbidden": [
+    "Herramienta",
+    "Punta",
+    "Apretar",
+    "Mango",
+    "Plano",
+    "Estrella",
+    "Girar"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "PERILLA",
+   "forbidden": [
+    "Girar",
+    "Puerta",
+    "Estufa",
+    "Manija",
+    "Redonda",
+    "Volumen",
+    "Abrir"
+   ],
+   "category": "dificiles_describir",
+   "difficulty": 3
+  },
+  {
+   "word": "CHISME",
+   "forbidden": [
+    "Rumor",
+    "Contar",
+    "Secreto",
+    "Vecina",
+    "Hablar",
+    "Cuchicheo",
+    "Murmullo"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "ERUPTO",
+   "forbidden": [
+    "Gas",
+    "Comer",
+    "Boca",
+    "Sonido",
+    "Ruido",
+    "Gaseosa",
+    "Estómago"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "HIPO",
+   "forbidden": [
+    "Respirar",
+    "Susto",
+    "Ruido",
+    "Diafragma",
+    "Agua",
+    "Hip",
+    "Espasmo"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "COSQUILLAS",
+   "forbidden": [
+    "Risa",
+    "Pies",
+    "Tocar",
+    "Dedos",
+    "Axilas",
+    "Reír",
+    "Plumas"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "TROPEZAR",
+   "forbidden": [
+    "Caer",
+    "Piedra",
+    "Pies",
+    "Escalón",
+    "Torpe",
+    "Caminar",
+    "Piso"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "RONCAR",
+   "forbidden": [
+    "Dormir",
+    "Ruido",
+    "Nariz",
+    "Noche",
+    "Cama",
+    "Pareja",
+    "Sonido"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "CHANCLA",
+   "forbidden": [
+    "Zapato",
+    "Mamá",
+    "Pie",
+    "Playa",
+    "Volar",
+    "Castigo",
+    "Sandalia"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "PIÑATA",
+   "forbidden": [
+    "Palo",
+    "Dulces",
+    "Cumpleaños",
+    "Golpear",
+    "Venda",
+    "Fiesta",
+    "Romper"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "ABUELA",
+   "forbidden": [
+    "Tejer",
+    "Nieto",
+    "Comida",
+    "Cariño",
+    "Mimos",
+    "Anciana",
+    "Mecedora"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "SUEGRA",
+   "forbidden": [
+    "Familia",
+    "Esposo",
+    "Yerno",
+    "Visita",
+    "Chiste",
+    "Consejos",
+    "Madre"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "TACAÑO",
+   "forbidden": [
+    "Dinero",
+    "Gastar",
+    "Avaro",
+    "Ahorrar",
+    "Pagar",
+    "Monedas",
+    "Bolsillo"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "CARCAJADA",
+   "forbidden": [
+    "Fuerte",
+    "Estruendosa",
+    "Risa",
+    "Barriga",
+    "Ruidosa",
+    "Estallar",
+    "Gracioso"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "PAYASADA",
+   "forbidden": [
+    "Bromear",
+    "Tonto",
+    "Circo",
+    "Gracioso",
+    "Hacer reír",
+    "Ridículo",
+    "Chiste"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "BROMA",
+   "forbidden": [
+    "Engañar",
+    "Risa",
+    "Amigos",
+    "Primero de abril",
+    "Susto",
+    "Gracioso",
+    "Inocentada"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "CALVO",
+   "forbidden": [
+    "Pelo",
+    "Cabeza",
+    "Sin cabello",
+    "Brillar",
+    "Peluca",
+    "Pelón",
+    "Sol"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "PELUCA",
+   "forbidden": [
+    "Pelo",
+    "Falso",
+    "Cabeza",
+    "Calvo",
+    "Disfraz",
+    "Payaso",
+    "Rizada"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "TRAVESURA",
+   "forbidden": [
+    "Niño",
+    "Hacer",
+    "Broma",
+    "Castigo",
+    "Desorden",
+    "Pícaro",
+    "Travieso"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "ASCENSOR",
+   "forbidden": [
+    "Subir",
+    "Edificio",
+    "Botones",
+    "Pisos",
+    "Incómodo",
+    "Espera",
+    "Música"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "TORPE",
+   "forbidden": [
+    "Caerse",
+    "Accidente",
+    "Romper",
+    "Tropezar",
+    "Descuidado",
+    "Manos",
+    "Tonto"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "CHISTE",
+   "forbidden": [
+    "Reír",
+    "Gracioso",
+    "Contar",
+    "Risa",
+    "Remate",
+    "Humor",
+    "Broma"
+   ],
+   "category": "graciosas",
+   "difficulty": 1
+  },
+  {
+   "word": "MOCOS",
+   "forbidden": [
+    "Nariz",
+    "Sonar",
+    "Verde",
+    "Dedo",
+    "Niños",
+    "Asqueroso",
+    "Fosas"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "PEGAJOSO",
+   "forbidden": [
+    "Chicle",
+    "Miel",
+    "Manos",
+    "Pegar",
+    "Dulce",
+    "Adherente",
+    "Sucio"
+   ],
+   "category": "graciosas",
+   "difficulty": 2
+  },
+  {
+   "word": "LIBERTAD",
+   "forbidden": [
+    "Cadenas",
+    "Derechos",
+    "Volar",
+    "Independencia",
+    "Prisión",
+    "Elegir",
+    "Democracia"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "JUSTICIA",
+   "forbidden": [
+    "Juez",
+    "Balanza",
+    "Ley",
+    "Tribunal",
+    "Igualdad",
+    "Derecho",
+    "Castigo"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "PACIENCIA",
+   "forbidden": [
+    "Esperar",
+    "Calma",
+    "Tranquilidad",
+    "Tiempo",
+    "Aguantar",
+    "Fila",
+    "Virtud"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "HONESTIDAD",
+   "forbidden": [
+    "Verdad",
+    "Mentir",
+    "Sincero",
+    "Decir",
+    "Valor",
+    "Confianza",
+    "Engañar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "AMISTAD",
+   "forbidden": [
+    "Amigos",
+    "Compañero",
+    "Confianza",
+    "Cariño",
+    "Lealtad",
+    "Juntos",
+    "Querer"
+   ],
+   "category": "dificiles",
+   "difficulty": 2
+  },
+  {
+   "word": "FAMILIA",
+   "forbidden": [
+    "Padres",
+    "Hijos",
+    "Hermanos",
+    "Casa",
+    "Abuelos",
+    "Parientes",
+    "Mamá"
+   ],
+   "category": "dificiles",
+   "difficulty": 2
+  },
+  {
+   "word": "ÉXITO",
+   "forbidden": [
+    "Triunfo",
+    "Lograr",
+    "Ganar",
+    "Metas",
+    "Fama",
+    "Fracaso",
+    "Dinero"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "FRACASO",
+   "forbidden": [
+    "Perder",
+    "Error",
+    "Intentar",
+    "Derrota",
+    "Aprender",
+    "Éxito",
+    "Fallar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "TIEMPO",
+   "forbidden": [
+    "Reloj",
+    "Horas",
+    "Pasado",
+    "Futuro",
+    "Minutos",
+    "Segundos",
+    "Calendario"
+   ],
+   "category": "dificiles",
+   "difficulty": 2
+  },
+  {
+   "word": "DINERO",
+   "forbidden": [
+    "Billetes",
+    "Monedas",
+    "Banco",
+    "Pagar",
+    "Plata",
+    "Riqueza",
+    "Comprar"
+   ],
+   "category": "dificiles",
+   "difficulty": 2
+  },
+  {
+   "word": "SUERTE",
+   "forbidden": [
+    "Azar",
+    "Trébol",
+    "Lotería",
+    "Casualidad",
+    "Fortuna",
+    "Buena",
+    "Dados"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "MEMORIA",
+   "forbidden": [
+    "Recordar",
+    "Olvidar",
+    "Cerebro",
+    "Recuerdos",
+    "Mente",
+    "Pasado",
+    "Guardar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "IMAGINACIÓN",
+   "forbidden": [
+    "Fantasía",
+    "Mente",
+    "Crear",
+    "Soñar",
+    "Ideas",
+    "Creatividad",
+    "Niños"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "SECRETO",
+   "forbidden": [
+    "Callar",
+    "Confidencia",
+    "Oculto",
+    "Decir",
+    "Privado",
+    "Chisme",
+    "Guardar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "VERDAD",
+   "forbidden": [
+    "Mentira",
+    "Real",
+    "Honesto",
+    "Cierto",
+    "Falso",
+    "Decir",
+    "Realidad"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "MENTIRA",
+   "forbidden": [
+    "Verdad",
+    "Falso",
+    "Engañar",
+    "Decir",
+    "Pinocho",
+    "Cuento",
+    "Nariz"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "DESTINO",
+   "forbidden": [
+    "Futuro",
+    "Suerte",
+    "Escrito",
+    "Camino",
+    "Vida",
+    "Predestinado",
+    "Fortuna"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "RECUERDO",
+   "forbidden": [
+    "Pasado",
+    "Memoria",
+    "Foto",
+    "Nostalgia",
+    "Infancia",
+    "Álbum",
+    "Olvidar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "SILENCIO",
+   "forbidden": [
+    "Callar",
+    "Ruido",
+    "Quietud",
+    "Sin hablar",
+    "Biblioteca",
+    "Shhh",
+    "Paz"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "OPORTUNIDAD",
+   "forbidden": [
+    "Chance",
+    "Momento",
+    "Aprovechar",
+    "Trabajo",
+    "Puerta",
+    "Suerte",
+    "Ocasión"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "COSTUMBRE",
+   "forbidden": [
+    "Hábito",
+    "Tradición",
+    "Repetir",
+    "Rutina",
+    "Siempre",
+    "Cultura",
+    "Diario"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "PRIVACIDAD",
+   "forbidden": [
+    "Datos",
+    "Secreto",
+    "Personal",
+    "Intimidad",
+    "Redes",
+    "Proteger",
+    "Espiar"
+   ],
+   "category": "dificiles",
+   "difficulty": 3
+  },
+  {
+   "word": "CHAVO DEL OCHO",
+   "forbidden": [
+    "Vecindad",
+    "Barril",
+    "Chespirito",
+    "Quico",
+    "Doña Florinda",
+    "Serie",
+    "México"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "SELECCIÓN COLOMBIA",
+   "forbidden": [
+    "Amarilla",
+    "Fútbol",
+    "Mundial",
+    "James",
+    "Camiseta",
+    "Tricolor",
+    "Copa"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "TANGO",
+   "forbidden": [
+    "Argentina",
+    "Bailar",
+    "Pareja",
+    "Buenos Aires",
+    "Gardel",
+    "Bandoneón",
+    "Abrazo"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "SAMBA",
+   "forbidden": [
+    "Brasil",
+    "Carnaval",
+    "Bailar",
+    "Río",
+    "Plumas",
+    "Ritmo",
+    "Desfile"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "CUMBIA",
+   "forbidden": [
+    "Baile",
+    "Gaita",
+    "Tambor",
+    "Costa",
+    "Pollera",
+    "Ritmo",
+    "Caribe"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "DÍA DE MUERTOS",
+   "forbidden": [
+    "México",
+    "Calaveras",
+    "Ofrenda",
+    "Altar",
+    "Cempasúchil",
+    "Noviembre",
+    "Catrina"
+   ],
+   "category": "latam",
+   "difficulty": 3
+  },
+  {
+   "word": "SOMBRERO VUELTIAO",
+   "forbidden": [
+    "Colombia",
+    "Caña flecha",
+    "Costa",
+    "Negro",
+    "Cabeza",
+    "Blanco",
+    "Artesanía"
+   ],
+   "category": "latam",
+   "difficulty": 3
+  },
+  {
+   "word": "RUANA",
+   "forbidden": [
+    "Boyacá",
+    "Poncho",
+    "Andes",
+    "Campesino",
+    "Hombros",
+    "Cobija",
+    "Bogotá"
+   ],
+   "category": "latam",
+   "difficulty": 3
+  },
+  {
+   "word": "CHIVA",
+   "forbidden": [
+    "Bus",
+    "Colombia",
+    "Colores",
+    "Rumba",
+    "Pueblo",
+    "Escalera",
+    "Techo"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "LLAMA",
+   "forbidden": [
+    "Perú",
+    "Lana",
+    "Andes",
+    "Escupir",
+    "Animal",
+    "Alpaca",
+    "Montaña"
+   ],
+   "category": "latam",
+   "difficulty": 1
+  },
+  {
+   "word": "MACHU PICCHU",
+   "forbidden": [
+    "Perú",
+    "Incas",
+    "Ruinas",
+    "Montaña",
+    "Cusco",
+    "Ciudad perdida",
+    "Maravilla"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "TAMALES",
+   "forbidden": [
+    "Hoja",
+    "Masa",
+    "Maíz",
+    "Navidad",
+    "Cerdo",
+    "Envuelto",
+    "Vapor"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "BUÑUELOS",
+   "forbidden": [
+    "Navidad",
+    "Frito",
+    "Natilla",
+    "Bola",
+    "Queso",
+    "Diciembre",
+    "Dulce"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "ASADO",
+   "forbidden": [
+    "Carne",
+    "Parrilla",
+    "Argentina",
+    "Fuego",
+    "Domingo",
+    "Chorizo",
+    "Brasas"
+   ],
+   "category": "latam",
+   "difficulty": 1
+  },
+  {
+   "word": "CEVICHE",
+   "forbidden": [
+    "Pescado",
+    "Limón",
+    "Perú",
+    "Crudo",
+    "Cebolla",
+    "Mariscos",
+    "Ácido"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "GUACAMOLE",
+   "forbidden": [
+    "Aguacate",
+    "México",
+    "Nachos",
+    "Verde",
+    "Picante",
+    "Salsa",
+    "Totopos"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "ALFAJOR",
+   "forbidden": [
+    "Dulce de leche",
+    "Galleta",
+    "Argentina",
+    "Chocolate",
+    "Maicena",
+    "Coco",
+    "Postre"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "MATE",
+   "forbidden": [
+    "Argentina",
+    "Yerba",
+    "Termo",
+    "Calabaza",
+    "Bombilla",
+    "Infusión",
+    "Uruguay"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "MARACAS",
+   "forbidden": [
+    "Instrumento",
+    "Sonar",
+    "Agitar",
+    "Caribe",
+    "Semillas",
+    "Ritmo",
+    "Dos"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "TELENOVELA",
+   "forbidden": [
+    "Drama",
+    "Amor",
+    "Capítulos",
+    "Villana",
+    "Televisión",
+    "Lágrimas",
+    "Mexicana"
+   ],
+   "category": "latam",
+   "difficulty": 1
+  },
+  {
+   "word": "LUCHA LIBRE",
+   "forbidden": [
+    "Máscara",
+    "México",
+    "Ring",
+    "Luchador",
+    "Capa",
+    "Salto",
+    "Combate"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  },
+  {
+   "word": "BANDEJA PAISA",
+   "forbidden": [
+    "Frijoles",
+    "Chicharrón",
+    "Antioquia",
+    "Arroz",
+    "Huevo",
+    "Plato",
+    "Medellín"
+   ],
+   "category": "latam",
+   "difficulty": 2
+  }
+ ]
+}

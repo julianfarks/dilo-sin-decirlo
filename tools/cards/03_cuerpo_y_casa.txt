@@ -1,0 +1,120 @@
+## hogar | Hogar y electrodomésticos | 🏠 | 1
+REFRIGERADOR: Frío, Nevera, Comida, Hielo, Cocina, Congelar, Puerta
+LAVADORA: Ropa, Lavar, Jabón, Agua, Centrifugar, Sucia, Secar
+MICROONDAS: Calentar, Comida, Cocina, Minutos, Plato, Descongelar, Palomitas
+ESTUFA: Cocina, Fuego, Hornilla, Gas, Olla, Sartén, Calentar
+LICUADORA: Jugo, Batir, Cuchillas, Frutas, Vaso, Mezclar, Smoothie
+ASPIRADORA: Polvo, Limpiar, Alfombra, Succionar, Piso, Barrer, Ruido
+PLANCHA: Ropa, Arrugas, Camisa, Vapor, Caliente, Alisar, Tabla
+VENTILADOR: Aire, Calor, Aspas, Fresco, Girar, Viento, Techo
+SOFÁ: Sala, Sentarse, Cojines, Televisión, Cómodo, Acostarse, Cuero
+CAMA: Dormir, Colchón, Sábanas, Almohada, Noche, Cobija, Cuarto
+MESA: Comer, Sillas, Patas, Madera, Comedor, Plato, Cuatro
+SILLA: Sentarse, Patas, Respaldo, Mesa, Asiento, Comedor, Madera
+ESCOBA: Barrer, Basura, Palo, Limpiar, Piso, Bruja, Cerdas
+TOALLA: Secar, Baño, Mojado, Ducha, Playa, Algodón, Cuerpo
+DUCHA: Agua, Bañarse, Baño, Regadera, Jabón, Caliente, Champú
+INODORO: Baño, Sanitario, Taza, Cisterna, Papel, Tapa, Cadena
+CORTINA: Ventana, Tela, Cerrar, Luz, Colgar, Abrir, Sala
+ARMARIO: Ropa, Ganchos, Puertas, Cuarto, Guardar, Closet, Madera
+CALENTADOR: Agua, Ducha, Caliente, Gas, Temperatura, Baño, Tanque
+AIRE ACONDICIONADO: Frío, Temperatura, Control, Fresco, Calor, Habitación, Ventana | 2
+OLLA: Cocina, Sopa, Tapa, Hervir, Estufa, Metal, Arroz
+SARTÉN: Freír, Aceite, Cocina, Huevo, Mango, Estufa, Antiadherente
+HORNO: Hornear, Pan, Caliente, Pizza, Cocina, Torta, Temperatura
+
+## cuerpo | Cuerpo humano | 🫀 | 1
+CORAZÓN: Latidos, Sangre, Amor, Pecho, Pulso, Órgano, Bombear
+CEREBRO: Pensar, Cabeza, Neuronas, Inteligente, Memoria, Órgano, Mente
+PULMONES: Respirar, Aire, Pecho, Oxígeno, Inhalar, Órgano, Fumar
+ESTÓMAGO: Comida, Digerir, Hambre, Barriga, Órgano, Ácido, Panza
+OJOS: Ver, Pestañas, Mirar, Pupila, Párpados, Color, Cara
+NARIZ: Oler, Respirar, Cara, Fosas, Mocos, Estornudar, Olfato
+BOCA: Labios, Dientes, Lengua, Hablar, Comer, Cara, Besar
+OREJAS: Oír, Escuchar, Aretes, Sordo, Sonido, Cabeza, Oídos
+LENGUA: Boca, Saborear, Hablar, Papilas, Idioma, Rosada, Sacar
+DIENTES: Boca, Masticar, Cepillar, Blancos, Dentista, Muelas, Caries
+MANOS: Dedos, Palma, Agarrar, Aplaudir, Muñeca, Lavar, Guantes
+PIES: Zapatos, Caminar, Dedos, Talón, Plantas, Medias, Uñas
+RODILLA: Pierna, Doblar, Articulación, Caer, Hueso, Raspar, Piernas
+CODO: Brazo, Doblar, Articulación, Golpe, Hueso, Manga, Apoyar
+CABELLO: Cabeza, Peinar, Champú, Largo, Rubio, Cortar, Peluquería
+UÑAS: Dedos, Cortar, Esmalte, Manicura, Morder, Largas, Manos
+ESQUELETO: Huesos, Calavera, Cuerpo, Interior, Muerto, Halloween, Costillas
+MÚSCULOS: Fuerza, Gimnasio, Bíceps, Cuerpo, Pesas, Fuertes, Ejercicio
+HUESO: Esqueleto, Fractura, Perro, Duro, Calcio, Romper, Cuerpo
+SANGRE: Roja, Venas, Herida, Corazón, Donar, Líquido, Cuerpo
+PIEL: Cuerpo, Tocar, Cubierta, Sol, Cicatriz, Suave, Arrugas
+ESPALDA: Columna, Cuerpo, Dolor, Cargar, Atrás, Pecho, Mochila
+
+## naturaleza | Naturaleza y clima | 🌦️ | 1
+LLUVIA: Agua, Nubes, Paraguas, Mojar, Tormenta, Gotas, Cielo
+SOL: Estrella, Calor, Día, Luz, Amarillo, Cielo, Brillar
+LUNA: Noche, Satélite, Cielo, Llena, Estrellas, Redonda, Plata
+ESTRELLA: Cielo, Noche, Brillar, Galaxia, Fugaz, Deseo, Luz
+ARCOÍRIS: Colores, Lluvia, Cielo, Siete, Sol, Tormenta, Olla de oro
+RAYO: Tormenta, Trueno, Luz, Electricidad, Cielo, Relámpago, Nube
+VOLCÁN: Lava, Erupción, Montaña, Ceniza, Fuego, Magma, Cráter | 2
+TERREMOTO: Temblor, Tierra, Sismo, Edificios, Escala Richter, Sacudir, Placas | 2
+HURACÁN: Viento, Tormenta, Caribe, Vientos fuertes, Ojo, Destrucción, Tropical | 2
+NIEVE: Blanca, Frío, Invierno, Copos, Muñeco, Esquiar, Hielo
+VIENTO: Aire, Soplar, Brisa, Hojas, Aspas, Fuerte, Cometa
+NUBE: Cielo, Lluvia, Blanca, Algodón, Vapor, Gris, Flotar
+OCÉANO: Mar, Agua, Olas, Profundo, Azul, Peces, Barcos
+RÍO: Agua, Corriente, Desembocar, Orilla, Puente, Pescar, Cauce
+LAGO: Agua, Orilla, Pescar, Bote, Montaña, Cisne, Tranquilo
+CASCADA: Agua, Caída, Río, Montaña, Salto, Espuma, Altura
+BOSQUE: Árboles, Hojas, Animales, Verde, Caminar, Madera, Lobo
+ÁRBOL: Hojas, Tronco, Raíces, Ramas, Sombra, Madera, Verde
+FLOR: Pétalos, Jardín, Rosa, Perfume, Planta, Primavera, Abeja
+CACTUS: Espinas, Desierto, Planta, Pinchar, Verde, Seco, Agua
+ARENA: Playa, Desierto, Granos, Castillo, Dunas, Amarilla, Reloj
+NIEBLA: Neblina, Visibilidad, Nubes, Frío, Mañana, Blanca, Borrosa
+
+## musica | Música e instrumentos | 🎸 | 2
+GUITARRA: Cuerdas, Tocar, Acordes, Rock, Madera, Rasgar, Instrumento | 1
+PIANO: Teclas, Blancas, Negras, Tocar, Pedal, Cola, Instrumento | 1
+TAMBOR: Redoble, Baquetas, Golpear, Ritmo, Percusión, Piel, Banda
+VIOLÍN: Cuerdas, Arco, Orquesta, Clásica, Madera, Hombro, Instrumento
+FLAUTA: Soplar, Dulce, Agujeros, Viento, Instrumento, Boca, Colegio
+TROMPETA: Soplar, Metal, Jazz, Dorada, Instrumento, Viento, Boquilla
+SAXOFÓN: Jazz, Curvo, Lengüeta, Dorado, Músico, Soplar, Orquesta
+ACORDEÓN: Vallenato, Fuelle, Teclas, Botones, Instrumento, Colombia, Tocar
+ARPA: Cuerdas, Ángel, Paraguay, Dorada, Instrumento, Pulsar, Grande
+MARIACHI: México, Sombrero, Trompeta, Guitarrón, Cantar, Charro, Serenata
+VALLENATO: Acordeón, Colombia, Caja, Guacharaca, Cantar, Costa, Música
+SALSA: Bailar, Cali, Pareja, Ritmo, Latina, Música, Cadera
+REGGAETÓN: Perreo, Ritmo, Bad Bunny, Latino, Baile, Letra, Urbano
+ROCK: Guitarra, Eléctrica, Banda, Música, Concierto, Rebeldía, Ruido
+ÓPERA: Cantar, Soprano, Teatro, Voz, Clásica, Orquesta, Drama | 3
+DISCOTECA: Bailar, Música, Luces, Fiesta, DJ, Noche, Rumba
+DJ: Música, Mezclar, Discos, Fiesta, Consola, Bailar, Platos
+CORO: Cantar, Voces, Iglesia, Grupo, Armonía, Dirigir, Colegio
+CANCIÓN: Letra, Música, Cantar, Melodía, Estribillo, Radio, Artista | 1
+ORQUESTA: Director, Sinfonía, Instrumentos, Violines, Clásica, Músicos, Teatro
+HIMNO: Patria, Cantar, Bandera, Nacional, Estadio, Letra, País
+ARMÓNICA: Soplar, Boca, Blues, Instrumento, Pequeña, Vaquero, Notas
+
+## ropa | Ropa y accesorios | 👕 | 1
+CAMISA: Botones, Cuello, Manga, Tela, Planchar, Formal, Corbata
+PANTALÓN: Piernas, Bolsillos, Cinturón, Jean, Cremallera, Tela, Ropa
+JEAN: Pantalón, Azul, Denim, Bolsillos, Vaquero, Tela, Cremallera
+FALDA: Mujer, Vestido, Cintura, Piernas, Corta, Tela, Escocesa
+VESTIDO: Fiesta, Mujer, Falda, Elegante, Boda, Largo, Tela
+ZAPATOS: Pies, Cordones, Suela, Caminar, Par, Tacón, Cuero
+ZAPATILLAS: Deportivos, Cordones, Pies, Correr, Suela, Marca, Nike
+BUFANDA: Cuello, Frío, Lana, Invierno, Tejida, Abrigo, Envolver
+GUANTES: Manos, Dedos, Frío, Invierno, Lana, Par, Boxeo
+GORRA: Cabeza, Visera, Sol, Béisbol, Sombrero, Cubrir, Deportiva
+CINTURÓN: Pantalón, Hebilla, Pretina, Cuero, Sujetar, Correa, Agujeros
+CORBATA: Cuello, Formal, Nudo, Traje, Camisa, Oficina, Seda
+MEDIAS: Pies, Calcetines, Par, Zapatos, Pierna, Perdida, Algodón
+CHAQUETA: Abrigo, Frío, Cierre, Mangas, Cuero, Invierno, Lluvia
+PIJAMA: Dormir, Cama, Noche, Cómoda, Ropa, Camiseta, Pantuflas
+TRAJE DE BAÑO: Playa, Piscina, Nadar, Bikini, Mojado, Verano, Sol
+COLLAR: Cuello, Joya, Cadena, Perlas, Dije, Oro, Plata
+ANILLO: Dedo, Boda, Oro, Joya, Compromiso, Diamante, Matrimonio
+ARETES: Orejas, Joyas, Colgar, Perforar, Pares, Oro, Aros
+CAPA: Superhéroe, Espalda, Volar, Tela, Roja, Mago, Cuello
+DISFRAZ: Halloween, Fiesta, Máscara, Ropa, Personaje, Carnaval, Niños
+UNIFORME: Colegio, Trabajo, Ropa, Igual, Policía, Empleados, Escuela

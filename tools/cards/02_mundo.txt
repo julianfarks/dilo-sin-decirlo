@@ -1,0 +1,119 @@
+## deportes | Deportes | ⚽ | 2
+FÚTBOL: Balón, Gol, Cancha, Portero, Árbitro, Equipo, Mundial | 1
+BALONCESTO: Aro, Encestar, Cancha, NBA, Pelota, Canasta, Dribleo
+TENIS: Raqueta, Wimbledon, Cancha, Arcilla, Tie break, Pelota, Federer
+NATACIÓN: Piscina, Agua, Nadador, Traje de baño, Estilo libre, Gorro, Carril | 1
+BOXEO: Guantes, Ring, Golpes, Nocaut, Pelea, Round, Campeón
+GOLF: Palo, Hoyo, Campo, Pelota, Green, Caddie, Bandera
+VOLEIBOL: Red, Pelota, Saque, Playa, Remate, Set, Equipo
+BÉISBOL: Bate, Pelota, Guante, Jonrón, Pitcher, Bases, Entrada
+CICLISMO: Bicicleta, Pedalear, Casco, Tour de Francia, Ruta, Ruedas, Carrera
+ATLETISMO: Correr, Pista, Maratón, Medalla, Saltos, Velocidad, Olimpiadas
+GIMNASIA: Barra, Saltos, Acrobacia, Flexible, Cinta, Medalla, Olimpiadas
+SURF: Olas, Tabla, Mar, Playa, Hawái, Equilibrio, Espuma
+PATINAJE: Patines, Ruedas, Hielo, Pista, Deslizar, Casco, Cuatro
+AJEDREZ: Tablero, Rey, Reina, Peón, Jaque mate, Torre, Piezas
+YOGA: Postura, Meditar, Estirar, Respirar, Tapete, Flexibilidad, Relajación
+ESQUÍ: Nieve, Montaña, Bastones, Pendiente, Invierno, Botas, Pista
+MARATÓN: Correr, 42 kilómetros, Carrera, Resistencia, Meta, Corredores, Largo
+OLIMPIADAS: Medallas, Atletas, Juegos, Países, Antorcha, Cada cuatro años, Anillos
+PORTERO: Arco, Guantes, Atajar, Gol, Penal, Manos, Barrera
+PENAL: Gol, Portero, Patada, Árbitro, Once pasos, Falta, Tanda
+ÁRBITRO: Pito, Tarjeta, Roja, Juez, Falta, Partido, Amarilla | 1
+MEDALLA: Oro, Plata, Bronce, Podio, Premio, Cuello, Ganar | 1
+
+## entretenimiento | Películas y entretenimiento | 🎬 | 2
+PELÍCULA: Cine, Actores, Director, Escena, Palomitas, Pantalla, Estreno | 1
+CINE: Película, Butacas, Palomitas, Pantalla, Boletos, Sala, Proyector | 1
+SERIE: Capítulos, Temporada, Netflix, Maratón, Personajes, Televisión, Episodio | 1
+NETFLIX: Series, Películas, Streaming, Suscripción, Maratón, Rojo, Ver
+DISNEY: Mickey, Princesas, Castillo, Animación, Parque, Orejas, Películas
+PAYASO: Circo, Nariz roja, Maquillaje, Chiste, Globos, Zapatos grandes, Risa | 1
+CIRCO: Payaso, Carpa, Trapecio, Malabares, Leones, Función, Acróbata
+MAGIA: Mago, Truco, Varita, Conejo, Sombrero, Ilusión, Hechizo
+CONCIERTO: Cantante, Música, Estadio, Boletas, Escenario, Público, Banda
+TEATRO: Obra, Actores, Escenario, Telón, Público, Butacas, Drama
+CARNAVAL: Disfraz, Desfile, Máscara, Comparsa, Fiesta, Baile, Barranquilla
+DOCUMENTAL: Real, Naturaleza, Película, Narrador, Información, Historia, Realidad
+DIBUJOS ANIMADOS: Caricaturas, Niños, Televisión, Animación, Sábado, Colores, Personajes | 1
+SUPERHÉROE: Capa, Poderes, Villano, Salvar, Máscara, Marvel, Volar | 1
+MARVEL: Superhéroes, Avengers, Iron Man, Películas, Cómics, Thor, Disney
+HARRY POTTER: Mago, Varita, Hogwarts, Escoba, Cicatriz, Voldemort, Gafas
+STAR WARS: Galaxia, Jedi, Sable de luz, Darth Vader, Espacio, Fuerza, Yoda
+TITANIC: Barco, Iceberg, Hundirse, Rose, Jack, Océano, Película
+SHREK: Ogro, Verde, Pantano, Burro, Fiona, Princesa, Dragón
+KARAOKE: Cantar, Micrófono, Letra, Canción, Fiesta, Pantalla, Desafinar
+CÓMIC: Viñetas, Dibujos, Superhéroes, Historieta, Globos, Marvel, Papel
+STREAMING: Transmitir, En vivo, Twitch, Plataforma, Directo, Internet, Series
+
+## profesiones | Profesiones y trabajos | 👷 | 1
+MÉDICO: Hospital, Enfermo, Bata, Estetoscopio, Salud, Consulta, Paciente
+BOMBERO: Fuego, Manguera, Camión, Incendio, Casco, Rescate, Sirena
+POLICÍA: Ley, Arrestar, Patrulla, Uniforme, Ladrón, Placa, Sirena
+PROFESOR: Clase, Enseñar, Colegio, Estudiantes, Tablero, Tareas, Salón
+COCINERO: Restaurante, Chef, Comida, Delantal, Sartén, Gorro, Fogón
+PILOTO: Avión, Volar, Cabina, Aeropuerto, Uniforme, Aterrizar, Aerolínea
+ABOGADO: Juicio, Leyes, Juez, Defender, Corbata, Tribunal, Demanda
+ARQUITECTO: Planos, Edificio, Diseño, Casas, Construcción, Maqueta, Dibujar | 2
+INGENIERO: Puentes, Construir, Cálculos, Diseñar, Universidad, Máquinas, Casco | 2
+PELUQUERO: Cabello, Tijeras, Cortar, Salón, Secador, Peinar, Barba
+MESERO: Restaurante, Pedido, Comida, Propina, Bandeja, Mesa, Cuenta
+CARTERO: Cartas, Correo, Paquetes, Entregar, Buzón, Uniforme, Bicicleta
+CONDUCTOR: Carro, Manejar, Licencia, Volante, Bus, Taxi, Camino
+ASTRONAUTA: Espacio, Luna, Cohete, NASA, Traje, Planeta, Gravedad
+DETECTIVE: Misterio, Pistas, Investigar, Lupa, Crimen, Sherlock, Caso
+CIENTÍFICO: Laboratorio, Experimento, Bata, Investigar, Descubrir, Probeta, Teoría | 2
+FOTÓGRAFO: Cámara, Fotos, Flash, Retrato, Lente, Imágenes, Boda
+DENTISTA: Muelas, Dientes, Caries, Boca, Consultorio, Taladro, Anestesia
+CAMPESINO: Finca, Cultivar, Tierra, Cosecha, Sembrar, Ruana, Campo
+ELECTRICISTA: Cables, Corriente, Luz, Instalar, Enchufes, Cortocircuito, Voltaje
+PLOMERO: Tuberías, Agua, Fugas, Llave, Baño, Destapar, Grifo
+MECÁNICO: Carro, Taller, Motor, Reparar, Llantas, Aceite, Herramientas
+
+## lugares | Lugares y países | 🌎 | 2
+COLOMBIA: Bogotá, Café, Medellín, Sudamérica, Bandera, Cartagena, Arepa | 1
+MÉXICO: Tacos, Sombrero, Tequila, Mariachi, Capital, Azteca, Norteamérica | 1
+ARGENTINA: Messi, Buenos Aires, Tango, Asado, Maradona, Gauchos, Sudamérica | 1
+BRASIL: Samba, Carnaval, Río de Janeiro, Portugués, Amazonas, Pelé, Selva
+ESPAÑA: Madrid, Flamenco, Paella, Europa, Toros, Barcelona, Siesta
+ESTADOS UNIDOS: Norteamérica, Washington, Nueva York, Dólar, Inglés, Estrellas, Hollywood
+JAPÓN: Tokio, Samurái, Anime, Sushi, Asia, Sol naciente, Kimono
+CHINA: Muralla, Asia, Pekín, Dragón, Pandas, Mandarín, Arroz
+ITALIA: Pizza, Roma, Pasta, Europa, Venecia, Coliseo, Botas
+FRANCIA: París, Torre Eiffel, Baguette, Europa, Vino, Francés, Queso
+EGIPTO: Pirámides, Faraones, Nilo, Momias, Desierto, Esfinge, África
+PLAYA: Arena, Mar, Sol, Olas, Bañador, Vacaciones, Sombrilla | 1
+MONTAÑA: Alta, Cima, Escalar, Nieve, Roca, Pico, Subir | 1
+DESIERTO: Arena, Seco, Camello, Calor, Dunas, Oasis, Cactus
+SELVA: Árboles, Tropical, Animales, Lluvia, Amazonas, Verde, Mono
+AEROPUERTO: Aviones, Maletas, Vuelo, Pasaporte, Terminal, Aterrizar, Abordar | 1
+HOSPITAL: Médicos, Enfermos, Urgencias, Camilla, Enfermera, Cirugía, Salud | 1
+BIBLIOTECA: Libros, Silencio, Leer, Prestar, Estantes, Préstamo, Estudiar | 1
+SUPERMERCADO: Compras, Carrito, Comida, Cajero, Productos, Pasillos, Mercar | 1
+MUSEO: Arte, Exposición, Cuadros, Historia, Visitar, Esculturas, Guía
+ESTADIO: Fútbol, Hinchas, Cancha, Gradas, Partido, Gol, Equipo | 1
+PARQUE: Columpios, Árboles, Niños, Banca, Jugar, Pasto, Perros | 1
+
+## transporte | Transporte y vehículos | 🚗 | 1
+AVIÓN: Volar, Alas, Aeropuerto, Piloto, Pasajeros, Cielo, Turbina
+CARRO: Conducir, Llantas, Volante, Motor, Gasolina, Placa, Calle
+BICICLETA: Pedales, Ruedas, Cadena, Manubrio, Pedalear, Casco, Montar
+MOTO: Casco, Dos ruedas, Acelerar, Escape, Velocidad, Manubrio, Gasolina
+BUS: Pasajeros, Conductor, Ruta, Terminal, Paradero, Pasaje, Asientos
+TREN: Rieles, Estación, Vagones, Locomotora, Pasajeros, Vías, Pito
+TAXI: Amarillo, Conductor, Pasajero, Carrera, Calle, Pagar, Uber
+BARCO: Mar, Agua, Navegar, Capitán, Puerto, Ancla, Zarpar
+HELICÓPTERO: Hélices, Volar, Aterrizar, Aire, Rescate, Piloto, Aspas
+CAMIÓN: Carga, Llantas, Transportar, Conductor, Carretera, Remolque, Pesado
+AMBULANCIA: Sirena, Hospital, Emergencia, Paciente, Camilla, Urgente, Paramédico
+SUBMARINO: Agua, Mar, Sumergirse, Periscopio, Profundidad, Barco, Amarillo
+PATINETA: Ruedas, Tabla, Trucos, Skate, Parque, Equilibrio, Rampa
+CABLE AÉREO: Montaña, Cabina, Colgar, Teleférico, Altura, Subir, Medellín | 2
+METRO: Subterráneo, Estación, Vagón, Tren, Túnel, Tarjeta, Ciudad
+CRUCERO: Barco, Vacaciones, Mar, Cabina, Piscina, Gigante, Turistas
+COHETE: Espacio, Luna, Despegar, NASA, Astronauta, Fuego, Cuenta regresiva
+GLOBO AEROSTÁTICO: Aire caliente, Cesta, Volar, Cielo, Gigante, Colores, Altura | 2
+TRACTOR: Campo, Finca, Arar, Llantas grandes, Tierra, Agricultor, Cultivo
+GRÚA: Levantar, Carga, Brazo, Construcción, Cable, Peso, Gancho | 2
+VOLQUETA: Arena, Camión, Carga, Escombros, Tolva, Construcción, Descargar | 2
+BOTE: Remos, Lago, Agua, Pescar, Navegar, Pequeño, Orilla
